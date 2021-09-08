@@ -1,6 +1,6 @@
 <?php
-// $serverName = "localhost";
-$serverName = "sql176.main-hosting.eu";
+$serverName = "localhost";
+// $serverName = "sql176.main-hosting.eu";
 $userName = "u210545861_root";
 $password = "Fj[7pImQs";
 $dbname= "u210545861_menu_list";

@@ -1,0 +1,16 @@
+[{
+        "number": "18",
+        "name": "Egg Biryani with Raita",
+        "type": "nonveg",
+        "desc": "RAITA - (Churned YOGHURT blended with chopped onions). Delicately flavoured combination of extra fine basmati rice and  hard-boiled EGGS with aromatic herbs and SPICES",
+        "price": "3.99"
+    },
+    {
+        "number": "19",
+        "name": "Egg Masala with 2 Tawa-wali-Paratha (or) 3 Roti ",
+        "type": "nonveg",
+        "desc": "SPICY EGG CURRY served with a choice of MULTI LAYERED BREADS (or) FLAT BREADS, COCONUT CHUTNEY and PICKLE",
+        "price": "3.99"
+    }
+
+]

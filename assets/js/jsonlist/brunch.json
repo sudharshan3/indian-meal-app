@@ -1,0 +1,100 @@
+ [{
+         "number": "01",
+         "name": "Idli / Vada Sambar - 2 Pieces",
+         "type": "vegan",
+         "desc": "Steamed rice and skinned black gram cakes / DOUGHNUTS immersed in SAMBAR topped with SPICY CHUTNEYS",
+         "price": "2.49"
+     },
+     {
+         "number": "02",
+         "name": "Plain Dosa ",
+         "type": "vegan",
+         "desc": "Rice and skinned black gram crepe served with SAMBAR (spicy yellow split peas soup) and SPICY CHUTNEYS",
+         "price": "2.49"
+     },
+     {
+         "number": "03",
+         "name": "Masala Dosa (or) Podi Dosa ",
+         "type": "vegeterian",
+         "desc": "(Sprinkled with a mixture of ground spicy coarse powder) Rice and skinned black gram crepe stuffed with SPICY POTATOES served with SAMBAR and SPICY CHUTNEYS",
+         "price": "299"
+     },
+     {
+         "number": "04",
+         "name": "Onion, Tomato & Chilli Uthappam ",
+         "type": "vegan",
+         "desc": "Rice and skinned black gram pancake topped with onions, tomatoes and chillies with SAMBAR and SPICY CHUTNEYS",
+         "price": "3.49"
+     },
+     {
+         "number": "05",
+         "name": "Egg Dosa",
+         "type": "nonveg",
+         "desc": "Rice and black gram crepe topped with EGGS served with SAMBAR (spicy yellow split peas soup) and SPICY CHUTNEYS",
+         "price": "3.49"
+     },
+     {
+         "number": "06",
+         "name": "Chilli Paneer Masala Dosa (or) Cheese Masala Dosa",
+         "type": "vegeterian",
+         "desc": "Rice and skinned black gram crepe spread with CHUTNEY stuffed with POTATOES and COTTAGE (or) CHEDDAR CHEESE ",
+         "price": "4.99"
+     },
+     {
+         "number": "07",
+         "name": "Chilli Chicken Masala Dosa",
+         "type": "nonveg",
+         "desc": "Rice and skinned black gram crepe spread with CHUTNEY stuffed with SPICY POTATOES and DRY SPICY CHICKEN ",
+         "price": "4.99"
+     },
+     {
+         "number": "08",
+         "name": "Puri - 4 Pieces with Aloo-ki-Sabzi (or) Chana Masala ",
+         "type": "vegan",
+         "desc": "Stuffed fluffy fried BREAD served with SPICY POTATOES (or) white chickpeas CURRY, COCONUT CHUTNEY and PICKLE",
+         "price": "3.99"
+     },
+     {
+         "number": "09",
+         "name": "Chana Masala (or) Aloo-ki-Sabzi with 2 Tawa-wali-Paratha (or) 3 Roti ",
+         "type": "vegan",
+         "desc": "TANGY CHICKPEAS CURRY / SPICY POTATOES with MULTI LAYERED BREADS (or) FLAT BREADS, COCONUT CHUTNEY and PICKLE ",
+         "price": "4.99"
+     },
+     {
+         "number": "10",
+         "name": "Paneer Mirch Masala with 2 Tawa-wali-Paratha (or) 3 Roti",
+         "type": "vegeterian",
+         "desc": "DRY SPICY COTTAGE CHEESE CAPSICUM MASALA with MULTI LAYERED BREADS (or) FLAT BREADS, COCONUT CHUTNEY & PICKLE ",
+         "price": "4.99"
+     },
+     {
+         "number": "11",
+         "name": "Chilli Chicken with 2 Tawa-wali-Paratha (or) 3 Roti",
+         "type": "nonveg",
+         "desc": "SPICY CHICKEN with MULTI LAYERED BREADS (or) FLAT BREADS, COCONUT CHUTNEY and PICKLE",
+         "price": "4.99"
+     },
+     {
+         "number": "12",
+         "name": "Veg. Kothu Parotta ",
+         "type": "vegan",
+         "desc": "Chopped onion, tomato, leek, green chilli, mixture of SPICES with shredded layered BREADS and vegetable SALNA",
+         "price": "3.49"
+     },
+     {
+         "number": "13",
+         "name": "Egg Kothu Parotta ",
+         "type": "nonveg",
+         "desc": "Chopped onion, tomato, leek, chilli, mixture of SPICES and EGG combined with shredded layered BREADS and SALNA",
+         "price": "3.99"
+     },
+     {
+         "number": "14",
+         "name": "Chicken Kothu Parotta",
+         "type": "nonveg",
+         "desc": "Chopped onion, tomato, leek, chilli, mixture of SPICES and EGG combined with shredded BREADS and chicken SALNA ",
+         "price": "4.99"
+     }
+
+ ]

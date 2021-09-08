@@ -1,0 +1,45 @@
+ [{
+         "number": "48",
+         "name": "Mineral Water (or) Rubicon Sparkling Fruit Drink ",
+         "type": "vegan",
+         "desc": "-",
+         "price": "0.69"
+     },
+     {
+         "number": "49",
+         "name": "Can Drinks (or) Cutting Chai ",
+         "type": "vegeterian",
+         "desc": "Half cup ginger tea",
+         "price": "0.79"
+     },
+     {
+         "number": "50",
+         "name": "Tea (or) Coffee (or) Jal Jeera Drink ",
+         "type": "vegeterian",
+         "desc": "Indian flavoured lemonade",
+         "price": "0.99"
+     },
+     {
+         "number": "51",
+         "name": "Adrak-wali-Chai Ginger tea (or) Indian Coffee (or) Hot Chocolate Milk",
+         "type": "vegeterian",
+         "desc": "-",
+         "price": "1.29"
+     },
+     {
+         "number": "52",
+         "name": "Sweet (or) Salty Lassi ",
+         "type": "vegeterian",
+         "desc": "A creamy drink of YOGHURT blended with sugar syrup (or) coriander chutney & salt ",
+         "price": "1.99"
+     },
+     {
+         "number": "53",
+         "name": "Mango Lassi ",
+         "type": "vegeterian",
+         "desc": "A creamy drink of YOGHURT blended with smooth mango pulp",
+         "price": "2.49"
+     }
+
+
+ ]

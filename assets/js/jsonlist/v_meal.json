@@ -1,0 +1,23 @@
+[{
+        "number": "15",
+        "name": "Veg. Curry with Rice ",
+        "type": "vegan",
+        "desc": "Vegetable CURRY of the day served with extra fine basmati rice, garden fresh salad and PICKLE",
+        "price": "2.99"
+    },
+    {
+        "number": "16",
+        "name": "Vegetable CURRY of the day served with extra fine basmati rice, garden fresh salad and PICKLE",
+        "type": "vegan",
+        "desc": "Vegetable CURRY of the day served with a choice of MULTI LAYERED BREADS (or) FLAT BREADS, CHUTNEY and PICKLE",
+        "price": "3.49"
+    },
+    {
+        "number": "17",
+        "name": "Veg. Biryani with Salad (or) Raita ",
+        "type": "vegan",
+        "desc": "Delicately flavoured combination of extra fine basmati rice and garden vegetables with aromatic herbs and SPICES ",
+        "price": "3.99"
+    }
+
+]

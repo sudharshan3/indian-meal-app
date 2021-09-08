@@ -1,0 +1,22 @@
+ [{
+         "number": "23",
+         "name": "Lamb Curry with Rice ",
+         "type": "nonveg",
+         "desc": "Lamb CURRY served with extra fine basmati rice, garden fresh salad ",
+         "price": "5.99"
+     },
+     {
+         "number": "24",
+         "name": "Lamb Curry with 2 Tawa-wali-Paratha (or) 3 Roti ",
+         "type": "nonveg",
+         "desc": "Lamb CURRY served with a choice of MULTI LAYERED BREADS (or) FLAT BREADS, COCONUT CHUTNEY and PICKLE",
+         "price": "6.49"
+     }, {
+         "number": "25",
+         "name": "Lamb Biryani with Raita ",
+         "type": "nonveg",
+         "desc": "RAITA - (Churned YOGHURT blended with chopped onions) Delicately flavoured combination of extra fine basmati rice, marinated tender lamb with aromatic herbs and SPICES ",
+         "price": "6.99"
+     }
+
+ ]

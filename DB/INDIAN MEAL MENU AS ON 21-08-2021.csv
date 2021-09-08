@@ -1,0 +1,54 @@
+Number,Name,Type,Description,Price,Category
+1,Idli / Vada Sambar - 2 Pieces,Vegan,Steamed rice and skinned black gram cakes / DOUGHNUTS immersed in SAMBAR topped with SPICY CHUTNEYS,£ 2.49p,Brunch
+2,Plain Dosa ,Vegan,Rice and skinned black gram crepe served with SAMBAR (spicy yellow split peas soup) and SPICY CHUTNEYS,£ 2.49p,Brunch
+3,Masala Dosa (or) Podi Dosa ,Vegan,Rice and skinned black gram crepe stuffed with SPICY POTATOES / Podi Dosa sprinkled with a mixture of ground spicy coarse powder served with SAMBAR and SPICY CHUTNEYS,£ 2.99p,Brunch
+4,"Onion, Tomato & Chilli Uthappam ",Vegan,"Rice and skinned black gram pancake topped with onions, tomatoes and chillies sprinkled with a mixture of ground spicy coarse powder served with SAMBAR and SPICY CHUTNEYS",£ 3.49p,Brunch
+5,Egg Dosa,Non-Veg,Rice and black gram crepe topped with EGGS served with SAMBAR (spicy yellow split peas soup) and SPICY CHUTNEYS,£ 3.49p,Brunch
+6,Chilli Paneer Masala Dosa (or) Cheese Masala Dosa,Veg,Rice and skinned black gram crepe spread with CHUTNEY stuffed with POTATOES and COTTAGE (or) CHEDDAR CHEESE ,£ 4.99p,Brunch
+7,Chilli Chicken Masala Dosa,Non-Veg,Rice and skinned black gram crepe spread with CHUTNEY stuffed with SPICY POTATOES and DRY SPICY CHICKEN ,£ 4.99p,Brunch
+8,Puri - 4 Pieces with Aloo-ki-Sabzi (or) Chana Masala ,Vegan,"Stuffed fluffy fried BREAD served with SPICY POTATOES (or) white chickpeas CURRY, COCONUT CHUTNEY and PICKLE",£ 3.99p,Brunch
+9,Chana Masala (or) Aloo-ki-Sabzi with 2 Tawa-wali-Paratha (or) 3 Roti ,Vegan,"TANGY CHICKPEAS CURRY / SPICY POTATOES with MULTI LAYERED BREADS (or) FLAT BREADS, COCONUT CHUTNEY and PICKLE ",£ 4.99p,Brunch
+10,Paneer Mirch Masala with 2 Tawa-wali-Paratha (or) 3 Roti,Veg,"DRY SPICY COTTAGE CHEESE CAPSICUM MASALA with MULTI LAYERED BREADS (or) FLAT BREADS, COCONUT CHUTNEY & PICKLE ",£ 4.99p,Brunch
+11,Chilli Chicken with 2 Tawa-wali-Paratha (or) 3 Roti,Non-Veg,"SPICY CHICKEN with MULTI LAYERED BREADS (or) FLAT BREADS, COCONUT CHUTNEY and PICKLE",£ 4.99p,Brunch
+12,Veg. Kothu Parotta ,Vegan,"Chopped onion, tomato, leek, green chilli, mixture of SPICES with shredded layered BREADS and vegetable SALNA",£ 3.49p,Brunch
+13,Egg Kothu Parotta ,Non-Veg,"Chopped onion, tomato, leek, chilli, mixture of SPICES and EGG combined with shredded layered BREADS and SALNA",£ 3.99p,Brunch
+14,Chicken Kothu Parotta,Non-Veg,"Chopped onion, tomato, leek, chilli, mixture of SPICES and EGG combined with shredded BREADS and chicken SALNA ",£ 4.99p,Brunch
+15,Veg. Curry with Rice ,Vegan,"Vegetable CURRY of the day served with extra fine basmati rice, garden fresh salad and PICKLE",£ 2.99p,Veg-Meal
+16,Veg. Curry with 2 Tawa-wali-Paratha (or) 3 Roti ,Vegan,"Vegetable CURRY of the day served with a choice of MULTI LAYERED BREADS (or) FLAT BREADS, CHUTNEY and PICKLE",£ 3.49p,Veg-Meal
+17,Veg. Biryani with Salad ,Vegan,Delicately flavoured combination of extra fine basmati rice and garden vegetables with aromatic herbs and SPICES ,£ 3.99p,Veg-Meal
+18,Egg Biryani with Raita,Non-Veg,Delicately flavoured combination of extra fine basmati rice and  hard-boiled EGGS with aromatic herbs and SPICES served with RAITA (Churned YOGHURT blended with chopped onions). ,£ 3.99p,Egg-Meal
+19,Egg Masala with 2 Tawa-wali-Paratha (or) 3 Roti ,Non-Veg,"SPICY EGG CURRY served with a choice of MULTI LAYERED BREADS (or) FLAT BREADS, COCONUT CHUTNEY and PICKLE",£ 3.99p,Egg-Meal
+20,Chicken Curry with Rice,Non-Veg,"Chicken CURRY served with extra fine basmati rice, garden fresh salad ",£ 3.99p,Chicken-Meal
+21,Chicken Curry with 2 Tawa-wali-Paratha (or) 3 Roti ,Non-Veg,Chicken CURRY served with a choice of MULTI LAYERED BREADS (or) FLAT BREADS COCONUT CHUTNEY and PICKLE,£ 4.49p,Chicken-Meal
+22,Chicken Biryani with Raita,Non-Veg,"Delicately flavoured combination of extra fine basmati rice, marinated chicken with aromatic herbs and SPICES served with RAITA (Churned YOGHURT blended with chopped onions) ",£ 4.99p,Chicken-Meal
+23,Lamb Curry with Rice ,Non-Veg,"Lamb CURRY served with extra fine basmati rice, garden fresh salad ",£ 5.99p,Lamb-Meal
+24,Lamb Curry with 2 Tawa-wali-Paratha (or) 3 Roti ,Non-Veg,"Lamb CURRY served with a choice of MULTI LAYERED BREADS (or) FLAT BREADS, COCONUT CHUTNEY and PICKLE",£ 6.49p,Lamb-Meal
+25,Lamb Biryani with Raita ,Non-Veg,"Delicately flavoured combination of extra fine basmati rice, marinated tender lamb with aromatic herbs and SPICES served with RAITA (Churned YOGHURT blended with chopped onions)",£ 6.99p,Lamb-Meal
+26,Veg. Samosa - 2 Pieces ,Vegan,Triangular PASTRY filled with mixture of SPICED POTATOES AND PEAS served with TANGY SWEET (or) SPICY CHUTNEY,£ 1.29p,Savoury & Snacks
+27,Vada (or) Samosa Pav,Vegan,"BATATA VADA (or) SAMOSA sandwiched in between hot BUN spread with SPICY CHUTNEYS, onions and pickled chilli",£ 1.29p,Savoury & Snacks
+28,Dabeli,Vegan,"SPICY POTATOES sandwiched in between BUN with CHUTNEYS, MASALA-PEANUTS, onion, raw-mango, pomegranate & sev",£ 1.49p,Savoury & Snacks
+29,Pav Bhaji ,Vegan,SPICY mashed mixed vegetables served with 2 hot BUNS ,£ 2.99p,Savoury & Snacks
+30,Bhel Puri,Vegan,"PAPDI, puffed rice, sev, PEANUTS, onion, potato, raw-mango & pomegranate blended in TANGY SWEET & SPICY CHUTNEY",£ 3.49p,Savoury & Snacks
+31,Samosa Bhel,Vegan,"SAMOSA, puffed rice, sev, PEANUTS, onion, raw-mango & pomegranate blended in TANGY SWEET & SPICY CHUTNEY ",£ 3.99p,Savoury & Snacks
+32,Ragda Sev Puri,Vegan,"PAPDI covered with white peas curry topped with onion, tomato, raw-mango, TANGY SWEET and SPICY CHUTNEYS & sev",£ 3.99p,Savoury & Snacks
+33,Pani Puri (Golgappa) - 8 Pieces ,Vegan,Round hollow crispy PASTRY SHELLS filled with POTATO-CHICKPEAS CHAAT and sev with TANGY SWEET & SPICED water,£ 2.99p,Savoury & Snacks
+34,Dahi Puri - 8 Pieces,Veg,"Round hollow PASTRY SHELLS filled with ALOO-CHANA CHAAT with YOGHURT, TANGY SWEET and SPICY CHUTNEYS & sev",£ 3.99p,Savoury & Snacks
+35,Dahi Papdi Chaat ,Veg,"PAPDI with POTATO-CHICKPEAS CHAAT covered with YOGHURT, TANGY SWEET and SPICY CHUTNEYS, pomegranate and sev ",£ 3.49p,Savoury & Snacks
+36,Samosa Chaat ,Vegan,"SAMOSA blended in white peas CURRY with onion, tomato, raw-mango, TANGY SWEET and SPICY CHUTNEYS and sev",£ 4.49p,Savoury & Snacks
+37,Aloo Kathi Roll ,Vegan,"Delicious hot ROTI spread with mint and coriander chutney, SAUCES rolled with SPICY POTATO and garden fresh salad",£ 1.99p,Wraps
+38,Omelette Kathi Roll,Non-Veg,"Delicious hot ROTI spread with mint and coriander chutney, SAUCES rolled with EGG OMELETTE and garden fresh salad",£ 2.49p,Wraps
+39,Paneer Kathi Roll,Veg,"Delicious hot ROTI spread with mint & coriander chutney, SAUCES rolled with SPICY COTTAGE CHEESE and garden salad",£ 3.49p,Wraps
+40,Chicken Kathi Roll ,Non-Veg,"Delicious hot ROTI spread with EGG, mint and coriander chutney, SAUCES rolled with SPICY CHICKEN and garden salad",£ 3.49p,Wraps
+41,Vegetable Chow Mein (or) Fried Rice ,Veg,"Stir-fried vegetables, CHILLI & SOYA SAUCES combined with fine EGG NOODLE (or) extra fine basmati rice ",£ 3.49p,CHOW MEIN / FRIED RICE / PASTA BIRYANI
+42,Egg Chow Mein (or) Fried Rice ,Non-Veg,"Stir-fried vegetables, SPICES, SAUCES and scrambled EGGS combined with fine EGG NOODLE (or) extra fine basmati rice ",£ 3.99p,CHOW MEIN / FRIED RICE / PASTA BIRYANI
+43,Chicken Chow Mein (or) Fried Rice,Non-Veg,"Stir-fried vegetables, SPICES, SAUCES, EGGS and CHILLI CHICKEN combined with EGG NOODLE (or) extra fine basmati rice",£ 4.99p,CHOW MEIN / FRIED RICE / PASTA BIRYANI
+44,Veg. / Egg Pasta Biryani ,Non-Veg,Delicately flavoured combination of MACARONI PASTA and garden vegetables / EGGS with aromatic herbs and SPICES,£ 3.99p,CHOW MEIN / FRIED RICE / PASTA BIRYANI
+45,Chicken Pasta Biryani,Non-Veg,"Delicately flavoured combination of MACARONI PASTA, marinated chicken with aromatic herbs and SPICES",£ 4.99p,CHOW MEIN / FRIED RICE / PASTA BIRYANI
+46,Mutton Pasta Biryani ,Veg,"Delicately flavoured combination of MACARONI PASTA, marinated tender mutton with aromatic herbs and SPICES",£ 6.99p,CHOW MEIN / FRIED RICE / PASTA BIRYANI
+47,Rasmalai - 2 Pieces (or) Hot Gulab Jamun - 3 Pieces (or) Kheer of the day,Desserts,CURD CHEESE dipped in a cold condensed MILK (or) Deep fried COTTAGE CHEESE dipped in a hot syrup (or) hot PUDDING,£ 2.49p,Desserts
+48,Mineral Water (or) Rubicon Sparkling Fruit Drink ,Beverages,-,69p,Beverages
+49,Canned Drinks (or) Cutting Chai (Half cup ginger tea) ,Beverages,-,79p,Beverages
+50,Tea (or) Coffee (or) Jal Jeera Drink (Indian flavoured lemonade),Beverages,-,99p,Beverages
+51,Adrak-wali-Chai (Ginger Tea) (or) Indian Coffee (or) Hot Chocolate Milk,Beverages,-,£ 1.29p,Beverages
+52,Sweet (or) Salty Lassi ,Beverages,A creamy drink of YOGHURT blended with sugar syrup (or) coriander chutney & salt ,£ 1.99p,Beverages
+53,Mango Lassi ,Beverages,A creamy drink of YOGHURT blended with smooth mango pulp,£ 2.49p,Beverages

@@ -1,0 +1,79 @@
+[{
+        "number": "26",
+        "name": "Veg. Samosa - 2 Pieces ",
+        "type": "vegan",
+        "desc": "Triangular PASTRY filled with mixture of SPICED POTATOES AND PEAS served with TANGY SWEET (or) SPICY CHUTNEY",
+        "price": "1.29"
+    },
+    {
+        "number": "27",
+        "name": "Vada (or) Samosa Pav",
+        "type": "vegan",
+        "desc": "BATATA VADA (or) SAMOSA sandwiched in between hot BUN spread with SPICY CHUTNEYS, onions and pickled chilli",
+        "price": "1.29"
+    },
+    {
+        "number": "28",
+        "name": "Dabeli",
+        "type": "vegan",
+        "desc": " SPICY POTATOES sandwiched in between BUN with CHUTNEYS, MASALA-PEANUTS, onion, raw-mango, pomegranate & sev",
+        "price": "1.49"
+    },
+    {
+        "number": "29",
+        "name": "Pav Bhaji ",
+        "type": "vegan",
+        "desc": "SPICY mashed mixed vegetables served with 2 hot BUNS ",
+        "price": "2.99"
+    },
+    {
+        "number": "30",
+        "name": "Bhel Puri",
+        "type": "vegan",
+        "desc": "PAPDI, puffed rice, sev, PEANUTS, onion, potato, raw-mango & pomegranate blended in TANGY SWEET & SPICY CHUTNEY",
+        "price": "3.49"
+    },
+    {
+        "number": "31",
+        "name": "Samosa Bhel",
+        "type": "vegan",
+        "desc": "SAMOSA, puffed rice, sev, PEANUTS, onion, raw-mango & pomegranate blended in TANGY SWEET & SPICY CHUTNEY ",
+        "price": "3.99"
+    },
+    {
+        "number": "32",
+        "name": "Ragda Sev Puri",
+        "type": "vegan",
+        "desc": "PAPDI covered with white peas curry topped with onion, tomato, raw-mango, TANGY SWEET and SPICY CHUTNEYS & sev",
+        "price": "3.99"
+    },
+    {
+        "number": "33",
+        "name": "Pani Puri (Golgappa) - 8 Pieces ",
+        "type": "vegan",
+        "desc": "Round hollow crispy PASTRY SHELLS filled with POTATO-CHICKPEAS CHAAT and sev with TANGY SWEET & SPICED water",
+        "price": "2.99"
+    },
+    {
+        "number": "34",
+        "name": "Dahi Puri - 8 Pieces",
+        "type": "vegeterian",
+        "desc": "Round hollow PASTRY SHELLS filled with ALOO-CHANA CHAAT with YOGHURT, TANGY SWEET and SPICY CHUTNEYS & sev",
+        "price": "3.99"
+    },
+    {
+        "number": "35",
+        "name": "Dahi Papdi Chaat ",
+        "type": "vegeterian",
+        "desc": "PAPDI with POTATO-CHICKPEAS CHAAT covered with YOGHURT, TANGY SWEET and SPICY CHUTNEYS, pomegranate and sev ",
+        "price": "3.49"
+    },
+    {
+        "number": "36",
+        "name": "Samosa Chaat ",
+        "type": "vegan",
+        "desc": "SAMOSA blended in white peas CURRY with onion, tomato, raw-mango, TANGY SWEET and SPICY CHUTNEYS and sev",
+        "price": "4.49"
+    }
+
+]

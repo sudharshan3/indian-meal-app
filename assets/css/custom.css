@@ -308,7 +308,7 @@ body {
     height: 100%;
 }
 
-@media (max-width:992px) {
+@media (max-width:772px) {
     .mformscroll {
         -webkit-overflow-scrolling: touch;
     }
@@ -325,7 +325,7 @@ body {
         flex-wrap: nowrap;
     }
     .homeimage {
-        width: 100%!important;
+        width: 90%!important;
     }
     .slide_img {
         height: 15rem;

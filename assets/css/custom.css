@@ -322,7 +322,7 @@ body {
         overflow-x: scroll;
         display: flex;
         justify-content: start;
-        flex-wrap: nowrap;
+        flex-wrap: nowrap; 
     }
     .homeimage {
         width: 90%!important;

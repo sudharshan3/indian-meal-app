@@ -284,7 +284,7 @@ body {
 }
 
 .homeimage {
-    width: 30%;
+    width: 30%!important;
 }
 
 .menu-category {
@@ -325,7 +325,7 @@ body {
         flex-wrap: nowrap;
     }
     .homeimage {
-        width: 100%;
+        width: 100%!important;
     }
     .slide_img {
         height: 15rem;

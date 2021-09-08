@@ -39,7 +39,7 @@
     </a>
     <section class="bg-danger rounded-bottom " style="padding-bottom: 9rem;">
         <div class="container text-center text-white py-5">
-            <img class="pb-2 mb-4 homeimage wow zoomIn " src="./assets/images/HEADERLOGO.png" alt="" style="width:90%">
+            <img class="pb-2 mb-4 homeimage wow zoomIn " src="./assets/images/HEADERLOGO.png" alt="" >
             <!-- <h1 class="display-1 pb-2 wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".5s" style="font-weight: bolder;letter-spacing: 3px;">
                 <span>INDIAN</span>
                 <span>MEALS</span>

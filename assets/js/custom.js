@@ -47,13 +47,13 @@ $(document).ready(function(){
         } 
         else if(value == "desserts"){
             $(".cat_heading").css("display","block");
-            $(".cat_heading").text("Indian popular sweets (Hot/Cold)")
+            $(".cat_heading").text("INDIAN POPULAR SWEETS (Hot/Cold)")
             $(".filter").not('.'+value).hide('3000');
             $('.filter').filter('.'+value).show('3000');
         }
         else if(value == "beverages"){
             $(".cat_heading").css("display","block");
-            $(".cat_heading").text("Hot or cold drinks")
+            $(".cat_heading").text("Hot or Cold drinks")
             $(".filter").not('.'+value).hide('3000');
             $('.filter').filter('.'+value).show('3000');
         }

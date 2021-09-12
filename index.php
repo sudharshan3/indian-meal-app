@@ -115,24 +115,27 @@
                     <?php
                     $sorted = rsort($shrink_type);
                
-    foreach($shrink_type as $type){
-        $typeclass = strtolower($type);
+    foreach($type_items as $type){
+        $m_type=$type["type_name"];
+         $l_type = strtolower($type["type_name"]);
+     
+    
         
-        if ($type == "Vegan"){
+        if ($m_type == "Vegan"){
             $color = "soft-success";
-        } else if ($type == "Non-Veg"){
+        } else if ($m_type == "Non-Veg"){
             $color = "soft-danger";
-        } else if ($type == "Veg"){
+        } else if ($m_type == "Veg"){
             $color = "soft-primary";
-        } else if ($type == "Desserts"){
+        } else if ($m_type == "Desserts"){
             $color = "soft-warning";
-        } else if ($type == "Beverages"){
+        } else if ($m_type == "Beverages"){
             $color = "soft-info";
         }  else {
             $color = "soft-dark";
         }
 
-echo "<button class='smallbuttons btn btn-sm btn-default filter-button bg-".$color." ' data-filter='".$typeclass."'>".$type."</button>";
+echo "<button class='smallbuttons btn btn-sm btn-default filter-button bg-".$color." ' data-filter='".$l_type."'>".$m_type."</button>";
     }
     ?>
 

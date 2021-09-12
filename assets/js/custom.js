@@ -26,7 +26,7 @@ $(document).ready(function(){
             $('.filter').show('1000');
         } else if(value == "brunch"){
             $(".cat_heading").css("display","block");
-            $(".cat_heading").text("South Indian & Sri Lankan cuisines")
+            $(".cat_heading").text("South Indian & Sri Lankan-cuisines")
             $(".filter").not('.'+value).hide('3000');
             $('.filter').filter('.'+value).show('3000');
         } else if(value == "savourysnacks"){
@@ -41,7 +41,7 @@ $(document).ready(function(){
             $('.filter').filter('.'+value).show('3000');
         } else if(value == "chowmeinfriedricepastabiryani"){
             $(".cat_heading").css("display","block");
-            $(".cat_heading").text("Kolkata Street Food")
+            $(".cat_heading").text("Hot or cold Indian popular sweets")
             $(".filter").not('.'+value).hide('3000');
             $('.filter').filter('.'+value).show('3000');
         }

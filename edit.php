@@ -37,7 +37,8 @@ if (isset($_POST['edit_menu'])){
     $category = $_POST['e_menu_category'];
     $price = $_POST['e_menu_price'];
     $desc = $_POST['e_menu_description'];
-    
+    // $image = $_POST['e_menu_image'];
+   
 
     $edit_query = "UPDATE `mainmenu` SET id=$id,Name='$name',Number='$number',Type='$type',Category='$category',Price='$price',Description='$desc' WHERE id=$id";
     $edit_category=mysqli_query($con,$edit_query);

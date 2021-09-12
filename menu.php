@@ -98,7 +98,6 @@ if($_SESSION['username'] && $_SESSION['password']){
                         <div class="menu_product row">
 
 
-
                             <?php foreach($items as $item){
     
      
@@ -128,6 +127,8 @@ if($_SESSION['username'] && $_SESSION['password']){
     
       echo   "<div class=' col-lg-6 col-md-12 col-sm-12 col-xs-12 ".$type." filter ".$data_value."'>
       <div class='shadow-sm rounded px-4 py-3 my-2 bg-white'>
+  
+
           <div class='d-flex justify-content-between align-items-start mb-2'>
               <div>
                   <h5 class='pe-2'><b> ".$item["Number"].". <span class='menu-title'>".$item["Name"]."</span></b></h5>
@@ -224,6 +225,10 @@ if($_SESSION['username'] && $_SESSION['password']){
                             <label for="e_menu_description" class="col-form-label">Description</label>
                             <textarea type="text" class="form-control" id="e_menu_description" name="e_menu_description"> </textarea>
                         </div>
+                        <!-- <div class="mb-3">
+                            <label for="e_menu_image" class="col-form-label">Upload Image</label>
+                            <input class="form-control" type="file" id="e_menu_image" name="e_menu_image">
+                        </div> -->
 
                     </div>
                     <div class="modal-footer w-100" style="flex-wrap: nowrap;">

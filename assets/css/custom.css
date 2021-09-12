@@ -2,6 +2,18 @@ body {
     font-family: 'Poppins', sans-serif;
     /* font-family: 'Helvetica Neue', sans-serif; */
 }
+.slidetext
+{
+    color: #ffffff;
+    text-transform: uppercase;
+    background: #000;
+    padding: 1rem 2rem;
+    position: absolute;
+    left: 0;
+    margin-bottom: 0!important;
+    bottom: 0;
+  
+}
 
 .bg-danger {
     background-color: hsl(355deg 84% 44%)!important
@@ -111,9 +123,12 @@ body {
 }
 
 .slide_img {
+    
+    position: relative;
+    text-align: center;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size:cover;
     height: 30rem;
 }
 

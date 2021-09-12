@@ -31,23 +31,23 @@ $(document).ready(function(){
             $('.filter').filter('.'+value).show('3000');
         } else if(value == "wraps"){
             $(".cat_heading").css("display","block");
-            $(".cat_heading").text("DELHI DELI WRAPS - Wrap containing a filling enfolded in an Indian flatbread")
+            $(".cat_heading").text("DELHI DELI WRAPS (Wrap containing a filling enfolded in an Indian flatbread)")
             $(".filter").not('.'+value).hide('3000');
             $('.filter').filter('.'+value).show('3000');
         } else if(value == "chaat"){
             $(".cat_heading").css("display","block");
-            $(".cat_heading").text("MUMBAI FAMOUS CHAAT - Set of snacks something sweet, sour, tangy, spicy and crunchy")
+            $(".cat_heading").text("MUMBAI FAMOUS CHAAT (Set of snacks something sweet, sour, tangy, spicy and crunchy)")
             $(".filter").not('.'+value).hide('3000');
             $('.filter').filter('.'+value).show('3000');
         } else if(value == "wok-meal"){
             $(".cat_heading").css("display","block");
-            $(".cat_heading").text("KOLKATA STYLE WOK MEAL - A popular pasta, fried rice and noodles")
+            $(".cat_heading").text("KOLKATA STYLE WOK MEAL (A popular pasta, fried rice and noodles)")
             $(".filter").not('.'+value).hide('3000');
             $('.filter').filter('.'+value).show('3000');
         } 
         else if(value == "desserts"){
             $(".cat_heading").css("display","block");
-            $(".cat_heading").text("Hot or cold Indian popular sweets")
+            $(".cat_heading").text("Indian popular sweets (Hot/Cold)")
             $(".filter").not('.'+value).hide('3000');
             $('.filter').filter('.'+value).show('3000');
         }
@@ -61,12 +61,7 @@ $(document).ready(function(){
         {
             $(".cat_heading").css("display","none");
                 $(".filter").not('.'+value).hide('3000');
-                $('.filter').filter('.'+value).show('3000');
-            
-           
-           
-            
-            
+                $('.filter').filter('.'+value).show('3000');   
         }
     });
 

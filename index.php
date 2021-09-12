@@ -156,7 +156,7 @@ echo "<button class='smallbuttons btn btn-sm btn-default filter-button bg-".$col
                 </div>
                 <br/>
                 <div class="text-center  w-100">
-                    <h6 class="cat_heading text-uppercase" style="display: none;">
+                    <h6 class="cat_heading" style="display: none;">
 
                     </h6>
                 </div>

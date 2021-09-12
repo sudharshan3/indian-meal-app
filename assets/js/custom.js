@@ -29,19 +29,31 @@ $(document).ready(function(){
             $(".cat_heading").text("South Indian & Sri Lankan-cuisines")
             $(".filter").not('.'+value).hide('3000');
             $('.filter').filter('.'+value).show('3000');
-        } else if(value == "savourysnacks"){
-            $(".cat_heading").css("display","block");
-            $(".cat_heading").text("Mumbai Famous Chat")
-            $(".filter").not('.'+value).hide('3000');
-            $('.filter').filter('.'+value).show('3000');
         } else if(value == "wraps"){
             $(".cat_heading").css("display","block");
-            $(".cat_heading").text("Delhi Deli Kathi Roll")
+            $(".cat_heading").text("DELHI DELI WRAPS - Wrap containing a filling enfolded in an Indian flatbread")
             $(".filter").not('.'+value).hide('3000');
             $('.filter').filter('.'+value).show('3000');
-        } else if(value == "chowmeinfriedricepastabiryani"){
+        } else if(value == "chaat"){
+            $(".cat_heading").css("display","block");
+            $(".cat_heading").text("MUMBAI FAMOUS CHAAT - Set of snacks something sweet, sour, tangy, spicy and crunchy")
+            $(".filter").not('.'+value).hide('3000');
+            $('.filter').filter('.'+value).show('3000');
+        } else if(value == "wok-meal"){
+            $(".cat_heading").css("display","block");
+            $(".cat_heading").text("KOLKATA STYLE WOK MEAL - A popular pasta, fried rice and noodles")
+            $(".filter").not('.'+value).hide('3000');
+            $('.filter').filter('.'+value).show('3000');
+        } 
+        else if(value == "desserts"){
             $(".cat_heading").css("display","block");
             $(".cat_heading").text("Hot or cold Indian popular sweets")
+            $(".filter").not('.'+value).hide('3000');
+            $('.filter').filter('.'+value).show('3000');
+        }
+        else if(value == "beverages"){
+            $(".cat_heading").css("display","block");
+            $(".cat_heading").text("Hot or cold drinks")
             $(".filter").not('.'+value).hide('3000');
             $('.filter').filter('.'+value).show('3000');
         }

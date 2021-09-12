@@ -115,7 +115,7 @@
                     <?php
                     $sorted = rsort($shrink_type);
                
-    foreach($type_items as $type){
+    foreach($shrink_type as $type){
         $typeclass = strtolower($type);
         
         if ($type == "Vegan"){

@@ -144,12 +144,13 @@ echo "<button class='smallbuttons btn btn-sm btn-default filter-button bg-".$col
                     <button class="btn  btn-default filter-button bigbuttons selected" data-filter="all">All Day Menu</button>
 
                     <?php
-                 foreach($shrink_category as $value){
-                    $spaceless = preg_replace('/\s+/', '', $value);
+                 foreach($cat_items as $value){
+                    $catname =$value['category_name'];
+                    $spaceless = preg_replace('/\s+/', '', $catname);
                     $data_value1 = strtolower($spaceless);
                     $data_value2 = preg_replace('/[^a-zA-Z0-9_ %\[\]\.\(\)%&-]/s', '', $data_value1);
                     $data_value = str_replace('&', '', $data_value2);
-                    echo  "<button class='btn  btn-default bigbuttons filter-button ' data-filter='".$data_value."'>".$value."</button>" ;
+                    echo  "<button class='btn  btn-default bigbuttons filter-button ' data-filter='".$data_value."'>".$catname."</button>" ;
                   }
                  ?>
 

@@ -107,8 +107,8 @@
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/ROTI.jpg');">               <h2 class="slidetext">ROTI</h2></div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Samosas.jpg');">            <h2 class="slidetext">Samosas</h2></div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Upma.jpg');">               <h2 class="slidetext">Upma</h2></div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Vada.jpg');">               <h2 class="slidetext">VADA PAV</h2></div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/VADA\ PAV.jpg');">          <h2 class="slidetext">Vada</h2></div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Vada.jpg');">               <h2 class="slidetext">VADA</h2></div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/VADA\ PAV.jpg');">          <h2 class="slidetext">Vada PAV</h2></div>
                 
             </div>
 

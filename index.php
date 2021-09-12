@@ -362,7 +362,7 @@ echo "<button class='smallbuttons btn btn-sm btn-default filter-button bg-".$col
             loop: true,
             nav: false,
             autoplay: true,
-            dots: false,
+            dots: true,
             margin: 0,
             autoplayTimeout: 4000,
             responsive: {

@@ -368,7 +368,7 @@ echo "<button class='smallbuttons btn btn-sm btn-default filter-button bg-".$col
             responsive: {
                 0: {
                     items: 1
-                }
+                },
                 900: {
                     items: 2
                 }

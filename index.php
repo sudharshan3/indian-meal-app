@@ -194,7 +194,7 @@ echo "<button class='smallbuttons btn btn-sm btn-default filter-button bg-".$col
 
                                   <small class=' badge bg-".$color."'>".$item["Type"]."</small>
                               </div>
-                              <h5 class='text-danger text-nowrap'><b>".$item["Price"]."</b> </h5>
+                              <h6 class='text-danger text-nowrap'><b>".$item["Price"]."</b> </h6>
                           </div>
 
                           <hr>

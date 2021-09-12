@@ -53,8 +53,34 @@
         <div class="container">
 
             <div class="wow fadeInUp owl-carousel home_slider" data-wow-duration="1s" data-wow-delay="1s">
-                <div class="shadow item  rounded bg-warning m-3 slide_img" style="background-image: url('./assets/images/store\ \(1\).jpg');"></div>
-                <div class="shadow item  rounded bg-warning m-3 slide_img" style="background-image: url('./assets/images/store\ \(2\).jpg');"></div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/BHEL\ PURI.jpg');"></div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/BIRYANI.jpg');"></div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/CHAAI.jpg');"></div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/BUBBLE\ TEA.jpg');"></div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Chana\ Masala.JPG');"></div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Cheese\ Dosa.jpg');"></div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/DABELI.jpg');"></div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/DAHI\ PAPDI\ CHAAT.jpg');"></div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/DAHI\ PURI.jpg');"></div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/DOSA.png');"></div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Gulab\ Jamun.JPG');"></div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/IDLI.jpg');"></div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/KathiRoll.jpg');"></div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/LASSI.jpg');"></div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/NOODLES.jpg');"></div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Onion\ Uthappam.JPG');"></div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Pani\ Puri.jpg');"></div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/PARATHA.jpg');"></div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/PASTA.jpg');"></div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/PAV\ BHAJI.jpg');"></div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/PURI.jpg');"></div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Ras\ Malai.JPG');"></div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Rava\ Dosa.jpg');"></div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/ROTI.jpg');"></div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Samosas.jpg');"></div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Upma.JPG');"></div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Vada.JPG');"></div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/VADA\ PAV.jpg');"></div>
             </div>
 
 

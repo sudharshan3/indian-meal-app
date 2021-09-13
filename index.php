@@ -116,7 +116,7 @@
         </div>
     </section>
     <section style="transform: translateY(-8rem);">
-        <div class="container">
+        <div class="container-md">
             <div class="row">
                 <div class="col-sm-12 col-md-12 wow zoomIn" data-wow-duration=".8s" data-wow-delay="0.1s">
                     <div class="shadow rounded text-white text-center py-3 m-2 bg-primary">

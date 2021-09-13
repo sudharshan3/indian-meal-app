@@ -126,13 +126,13 @@
                 </div>
                 <div class="col-sm-6 col-md-6 wow zoomIn" data-wow-duration=".8s" data-wow-delay="0.2s">
                     <div class="shadow rounded text-white  text-center py-3 m-2 bg-danger">
-                        <h6>MONDAY TO SATURDAY</h6>
+                        <h6>MONDAY - SATURDAY</h6>
                         <h3 class="mt-2">10:00-21:00</h3>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-6 wow zoomIn" data-wow-duration=".8s" data-wow-delay="0.3s">
                     <div class="shadow rounded text-dark  text-center py-3 m-2 bg-warning">
-                        <h6>SUNDAY AND BANK HOLIDAY</h6>
+                        <h6>SUNDAY & BANK HOLIDAY</h6>
                         <h3 class="mt-2">11:00-20:00</h3>
                     </div>
                 </div>
@@ -289,7 +289,7 @@ echo "<button class='smallbuttons btn btn-sm btn-default filter-button bg-".$col
 
                         <div class="text-center mb-4 h-30">
                             <h5 class="mb-1">
-                                Pitch 9, George Street, LUTON, Bedfordshire LU1 2AQ
+                                Pitch 9 George Street, LUTON, Bedfordshire LU1 2AQ
                             </h5>
                             <small>
                                 <strong>LANDMARK: OPPOSITE TO SPECSAVERS</strong>

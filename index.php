@@ -367,7 +367,7 @@ echo "<button class='smallbuttons btn btn-sm btn-default filter-button bg-".$col
             autoplayTimeout: 4000,
             responsive: {
                 0: {
-                    items: 1
+                    items: 2
                 },
                 900: {
                     items: 2

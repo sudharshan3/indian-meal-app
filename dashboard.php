@@ -23,6 +23,26 @@ if($_SESSION['username'] && $_SESSION['password'] && $_SESSION['fullname'] ){
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+    <style>
+        .sideasset-right{
+            right: -2.5rem;
+            top: 1.5rem;
+        }
+        .sideasset-left{
+            left: -2.5rem;
+            top: 1.5rem;
+        }
+        @media(max-width:772px){
+            .sideasset-right{
+            right: -5rem;
+            top: 1.5rem;
+        }
+        .sideasset-left{
+            left: -5rem;
+            top: 1.5rem;
+        }
+        }
+    </style>
 </head>
 
 <body class="bg-light" style="background: url('./assets/images/banner.svg'); ">
@@ -65,11 +85,11 @@ if($_SESSION['username'] && $_SESSION['password'] && $_SESSION['fullname'] ){
                 <div class="col-xs-12">
 
                     <div class="shadow-sm rounded bg-danger text-white m-2 p-3 overflow-hidden" style="position: relative;">
-                        <div class="position-absolute" style="left: -3rem;top: 1.5rem;">
-                            <img src="./assets/images/tomato.png" alt="" style="width: 10rem" >
+                        <div class="position-absolute sideasset-right" >
+                            <img src="./assets/images/tomato.png" alt="" style="width: 8rem" >
                         </div>
-                        <div class="position-absolute" style="right: -3rem;top: 1.5rem;">
-                            <img src="./assets/images/tomato.png" alt="" style="width: 10rem;">
+                        <div class="position-absolute sideasset-left">
+                            <img src="./assets/images/tomato.png" alt="" style="width: 8rem;">
                         </div>
                         <div class="text-center py-2 px-1">                        
                             <h6 class="mb-2">Welcome Back!</h6>

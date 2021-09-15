@@ -92,9 +92,9 @@ if($_SESSION['username'] && $_SESSION['password']){
                         } 
                     ?>
 
-                        <!-- <a class="btn btn-success rounded-circle position-fixed m-3 p-3 text-white shadow-lg" data-bs-toggle='modal' data-bs-target='#menuadd' style="bottom: 4rem;right: 0;">
+                        <a class="btn btn-success rounded-circle position-fixed m-3 p-3 text-white shadow-lg" data-bs-toggle='modal' data-bs-target='#menuadd' style="bottom: 4rem;right: 0;">
                             <h3 class="mb-0"><i class="bi bi-plus-lg"></i> </h3>
-                        </a> -->
+                        </a>
                         <div class="menu_product row">
 
 
@@ -157,7 +157,7 @@ if($_SESSION['username'] && $_SESSION['password']){
                   </i>
                    Edit</a>
           </div>
-          <div class='col-6 d-none'>
+          <div class='col-6'>
               <a href='#' class='btn btn-outline-danger w-100' data-bs-href='./delete.php?menu_deleteid=".$item['id']."' data-bs-toggle='modal' data-bs-target='#menudelete'><i class='bi bi-trash-fill'></i>
                    Delete</a>
           </div>

@@ -283,7 +283,7 @@ echo "<button class='smallbuttons btn btn-sm btn-default filter-button bg-".$col
                     <div class="shadow-lg bg-white rounded p-3 text-dark text-center alginall">
                         <div>
                             <h4> <i class="bi bi-geo-alt-fill  text-danger"></i></h4>
-                            <h6 class="m-0 ">Location</h6>
+                            <h6 class="m-0 ">Location </h6>
                             <hr>
                         </div>
 

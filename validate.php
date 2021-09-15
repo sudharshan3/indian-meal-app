@@ -18,6 +18,7 @@ if(isset($_POST['admin_login'])){
            echo "login success";
             $_SESSION['username'] = $row['username'];
             $_SESSION['password'] = $row['password'];
+            $_SESSION['fullname'] = $row['fullname'];
             header('Location:dashboard.php');
        } else{
             header('Location:login?error=Incorrect Username or Password');

@@ -1,7 +1,7 @@
 <?php 
 session_start();
 include("db.php");
-if($_SESSION['username'] && $_SESSION['password']){
+if($_SESSION['username'] && $_SESSION['password'] && $_SESSION['fullname'] ){
 ?>
 
 <html lang="en">
@@ -62,6 +62,25 @@ if($_SESSION['username'] && $_SESSION['password']){
         </div>
         <div class="container mt-2 mb-5 pb-5">
             <div class="row">
+                <div class="col-xs-12">
+
+                    <div class="shadow-sm rounded bg-danger text-white m-2 p-3 overflow-hidden" style="position: relative;">
+                        <div class="position-absolute" style="left: -3rem;top: 1.5rem;">
+                            <img src="./assets/images/tomato.png" alt="" style="width: 10rem" >
+                        </div>
+                        <div class="position-absolute" style="right: -3rem;top: 1.5rem;">
+                            <img src="./assets/images/tomato.png" alt="" style="width: 10rem;">
+                        </div>
+                        <div class="text-center py-2 px-1">                        
+                            <h6 class="mb-2">Welcome Back!</h6>
+                            <h1 class="font-weight-bold"><?php echo $_SESSION['fullname']; ?></h1>                           
+                        </div>
+                     
+
+                     
+
+                    </div>
+                </div>
                 <div class="col-xs-12 col-md-6" onclick="window.location.href='./menu.php'" style="cursor: pointer;">
 
                     <div class="shadow-sm rounded bg-white m-2 p-3">
@@ -88,6 +107,7 @@ if($_SESSION['username'] && $_SESSION['password']){
 
                     </div>
                 </div>
+           
                 <div class="col-xs-12 col-md-6" onclick="window.location.href='./settings.php'" style="cursor: pointer;">
                     <div class="shadow-sm rounded bg-white m-2 p-3">
                         <div class="d-flex justify-content-between align-items-center py-2 px-1">

@@ -128,17 +128,17 @@ if($_SESSION['username'] && $_SESSION['password']){
                             echo "<div class='col-sm-12 col-md-6'>
                                 <div class='bg-white rounded shadow-sm p-3 mb-2'>
                                     <div class='py-2'>
-                                        <h5>".$i['category_name']."</h5>
+                                        <h6>".$i['category_name']."</h6>
                                     </div>                           
                                     <div class='row w-100'>
                                         <div class='col-6'>
-                                            <a data-bs-name='".$i['category_name']."' data-bs-id='".$i['id']."' class='btn btn-outline-primary w-100' data-bs-toggle='modal' data-bs-target='#categoryedit'>
+                                            <a data-bs-name='".$i['category_name']."' data-bs-id='".$i['id']."' class='btn btn-outline-primary w-100 me-2' data-bs-toggle='modal' data-bs-target='#categoryedit'>
                                                 <i class='bi bi-pencil-fill'>
                                                 </i> Edit
                                             </a>
                                         </div>
                                         <div class='col-6'>
-                                            <a data-bs-href='./delete.php?cat_deleteid=".$i['id']."' data-bs-toggle='modal' data-bs-target='#categorydelete' class='btn btn-outline-danger w-100'><i class='bi bi-trash-fill'></i>
+                                            <a data-bs-href='./delete.php?cat_deleteid=".$i['id']."' data-bs-toggle='modal' data-bs-target='#categorydelete' class='btn btn-outline-danger w-100 ms-2'><i class='bi bi-trash-fill'></i>
                                                  Delete</a>
                                         </div>
                                     </div>

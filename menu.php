@@ -131,18 +131,18 @@ if($_SESSION['username'] && $_SESSION['password']){
 
           <div class='d-flex justify-content-between align-items-start mb-2'>
               <div>
-                  <h5 class='pe-2'><b> ".$item["Number"].". <span class='menu-title'>".$item["Name"]."</span></b></h5>
+                  <h6 class='pe-2'><b> ".$item["Number"].". <span class='menu-title'>".$item["Name"]."</span></b></h6>
     
                   <small class=' badge bg-".$color."'>".$item["Type"]."</small>
               </div>
-              <h5 class='text-danger text-nowrap'><b>".$item["Price"]."</b> </h5>
+              <h6 class='text-danger text-nowrap'><b>".$item["Price"]."</b> </h6>
           </div>
           <small class='descnew'>".$item["Description"]."</small>
           <hr>
        
           <div class='row w-100'>
           <div class='col-6'>
-              <a  class='btn btn-outline-primary w-100' data-bs-toggle='modal' data-bs-target='#menuedit' 
+              <a  class='btn btn-outline-primary w-100 me-2' data-bs-toggle='modal' data-bs-target='#menuedit' 
               bs-id='".$item['id']."'
               bs-number='".$item['Number']."' 
               bs-name='".$item['Name']."'
@@ -158,7 +158,7 @@ if($_SESSION['username'] && $_SESSION['password']){
                    Edit</a>
           </div>
           <div class='col-6'>
-              <a href='#' class='btn btn-outline-danger w-100' data-bs-href='./delete.php?menu_deleteid=".$item['id']."' data-bs-toggle='modal' data-bs-target='#menudelete'><i class='bi bi-trash-fill'></i>
+              <a href='#' class='btn btn-outline-danger w-100 ms-2' data-bs-href='./delete.php?menu_deleteid=".$item['id']."' data-bs-toggle='modal' data-bs-target='#menudelete'><i class='bi bi-trash-fill'></i>
                    Delete</a>
           </div>
       </div>

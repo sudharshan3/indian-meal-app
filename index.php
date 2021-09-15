@@ -50,7 +50,7 @@
         </div>
     </section>
     <section class="position-relative" style="transform: translateY(-10rem);">
-        <div class="container">
+        <div class="">
 
             <div class="wow fadeInUp owl-carousel home_slider" data-wow-duration="1s" data-wow-delay="1s">
             <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/BHEL\ PURI.jpg');">
@@ -358,9 +358,8 @@ echo "<button class='smallbuttons btn btn-sm btn-default filter-button bg-".$col
             $(".owl-carousel").owlCarousel();
         });
         $('.home_slider').owlCarousel({
-            center: true,
             loop: true,
-            nav: false,
+            nav: true,
             autoplay: true,
             dots: true,
             margin: 0,
@@ -370,7 +369,10 @@ echo "<button class='smallbuttons btn btn-sm btn-default filter-button bg-".$col
                     items:1
                 },
                 900: {
-                    items:2
+                    items:3
+                },
+                1400: {
+                    items:4
                 }
 
 

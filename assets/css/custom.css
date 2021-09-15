@@ -4,15 +4,35 @@ body {
 }
 .slidetext
 {
-    color: #ffffff;
+    color: #dc3545;
+    font-weight: bold;
+    letter-spacing: 2px;
+    border-radius: 10px ;
     text-transform: uppercase;
-    background: #000;
+    background: rgb(255, 255, 255);
     padding: 1rem 2rem;
     position: absolute;
-    left: 0;
-    margin-bottom: 0!important;
+    border: 1px solid #dc3545;
+    box-shadow: 1px 4px 10px 2px #00000061;   
+    margin-bottom: .5rem!important;
     bottom: 0;
   
+}
+.slide_img:hover>.slidetext{
+    transform: translateY(-5rem);
+    transition: .3s ease-in-out;
+}
+.slide_img {
+    
+    position: relative;
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 30rem;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
 }
 
 .bg-danger {
@@ -122,15 +142,6 @@ body {
     border-radius: 6px;
 }
 
-.slide_img {
-    
-    position: relative;
-    text-align: center;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size:cover;
-    height: 30rem;
-}
 
 .hidecurr {
     display: none!important;

@@ -83,7 +83,7 @@
                 </div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/NOODLES.jpg');">            <h6 class="slidetext">NOODLES</h6></div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Onion Uthappam.jpg');">    <h6 class="slidetext">Onion Uthappam</h6></div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/PARATHA.jpg');">            <h6 class="slidetext">PARATHA</h6></div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/PARATHA.jpg');">            <h6 class="slidetext">parotta</h6></div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/PURI.jpg');">               <h6 class="slidetext">PURI</h6></div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Ras Malai.jpg');">         <h6 class="slidetext">Ras Malai</h6></div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Rava Dosa.jpg');">         <h6 class="slidetext">Rava Dosa</h6></div>

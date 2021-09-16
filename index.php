@@ -84,11 +84,10 @@
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/NOODLES.jpg');">            <h6 class="slidetext">NOODLES</h6></div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Onion Uthappam.jpg');">    <h6 class="slidetext">Onion Uthappam</h6></div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/PARATHA.jpg');">            <h6 class="slidetext">PARATHA</h6></div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/PAV BHAJI.jpg');">         <h6 class="slidetext">PAV BHAJI</h6></div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/PURI.jpg');">               <h6 class="slidetext">PURI</h6></div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Ras Malai.jpg');">         <h6 class="slidetext">Ras Malai</h6></div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Rava Dosa.jpg');">         <h6 class="slidetext">Rava Dosa</h6></div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/ROTI.jpg');">               <h6 class="slidetext">ROTI</h6></div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/ROTI.jpg');">               <h6 class="slidetext">chapatti</h6></div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Samosas.jpg');">            <h6 class="slidetext">Samosas</h6></div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Upma.jpg');">               <h6 class="slidetext">Upma</h6></div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/VADA PAV.jpg');">          <h6 class="slidetext">Vada PAV</h6></div>

@@ -278,7 +278,7 @@ echo "<button class='smallbuttons btn btn-sm btn-default filter-button bg-".$col
                             </small>
 
                         </div>
-                        <a href="https://goo.gl/maps/Xh9nHismV3WNsS426" target="_blank" class="btn btn-lg btn-danger w-100 rounded-pill">Get Directions</a>
+                        <a href="https://goo.gl/maps/bDWcASkxgm9nQSZg7" target="_blank" class="btn btn-lg btn-danger w-100 rounded-pill">Get Directions</a>
                     </div>
                 </div>
                 <div class="col-sm-12 col-lg-4 mb-3 ">

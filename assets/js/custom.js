@@ -26,34 +26,34 @@ $(document).ready(function(){
             $('.filter').show('1000');
         } else if(value == "brunch"){
             $(".cat_heading").css("display","block");
-            $(".cat_heading").text("South Indian & Sri Lankan-cuisines")
+            $(".cat_heading").html("South Indian & Sri Lankan-cuisines")
             $(".filter").not('.'+value).hide('3000');
             $('.filter').filter('.'+value).show('3000');
         } else if(value == "wraps"){
             $(".cat_heading").css("display","block");
-            $(".cat_heading").text("DELHI DELI WRAPS (Wrap containing a filling enfolded in an Indian flatbread)")
+            $(".cat_heading").html("DELHI DELI WRAPS <br><small> Wrap containing a filling enfolded in an Indian flatbread</small>")
             $(".filter").not('.'+value).hide('3000');
             $('.filter').filter('.'+value).show('3000');
         } else if(value == "chaat"){
             $(".cat_heading").css("display","block");
-            $(".cat_heading").text("MUMBAI FAMOUS CHAAT (Set of snacks something sweet, sour, tangy, spicy and crunchy)")
+            $(".cat_heading").html("MUMBAI FAMOUS CHAAT <br><small> Set of snacks something sweet, sour, tangy, spicy and crunchy</small>")
             $(".filter").not('.'+value).hide('3000');
             $('.filter').filter('.'+value).show('3000');
         } else if(value == "wok-meal"){
             $(".cat_heading").css("display","block");
-            $(".cat_heading").text("KOLKATA STYLE WOK MEAL (A popular pasta, fried rice and noodles)")
+            $(".cat_heading").html("KOLKATA STYLE WOK MEAL <br><small> A popular pasta, fried rice and noodles</small>")
             $(".filter").not('.'+value).hide('3000');
             $('.filter').filter('.'+value).show('3000');
         } 
         else if(value == "desserts"){
             $(".cat_heading").css("display","block");
-            $(".cat_heading").text("INDIAN POPULAR SWEETS (Hot/Cold)")
+            $(".cat_heading").html("INDIAN POPULAR SWEETS<br><small>Hot/Cold</small>")
             $(".filter").not('.'+value).hide('3000');
             $('.filter').filter('.'+value).show('3000');
         }
         else if(value == "beverages"){
             $(".cat_heading").css("display","block");
-            $(".cat_heading").text("Hot or Cold drinks")
+            $(".cat_heading").html("Hot or Cold drinks")
             $(".filter").not('.'+value).hide('3000');
             $('.filter').filter('.'+value).show('3000');
         }

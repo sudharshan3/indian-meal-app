@@ -71,24 +71,18 @@
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/DAHI PURI.jpg');">
                     <h6 class="slidetext">DAHI PURI</h6>
                 </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/DOSA.jpg');">
-                    <h6 class="slidetext">DOSA</h6>
-                </div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Gulab Jamun.jpg');">
                     <h6 class="slidetext">Gulab Jamun</h6>
                 </div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/IDLI.jpg');">
                     <h6 class="slidetext">IDLI</h6>
                 </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/KathiRoll.jpg');">
-                    <h6 class="slidetext">KathiRoll</h6>
-                </div>
+             
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/LASSI.jpg');">
                     <h6 class="slidetext">LASSI</h6>
                 </div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/NOODLES.jpg');">            <h6 class="slidetext">NOODLES</h6></div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Onion Uthappam.jpg');">    <h6 class="slidetext">Onion Uthappam</h6></div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Pani Puri.jpg');">         <h6 class="slidetext">Pani Puri</h6></div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/PARATHA.jpg');">            <h6 class="slidetext">PARATHA</h6></div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/PAV BHAJI.jpg');">         <h6 class="slidetext">PAV BHAJI</h6></div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/PURI.jpg');">               <h6 class="slidetext">PURI</h6></div>

@@ -56,20 +56,11 @@
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/BHEL\ PURI.jpg');">
                     <h6 class="slidetext">BHEL PURI</h6>
                 </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/BIRYANI.jpg');">
-                    <h6 class="slidetext">BIRYANI</h6>
-                </div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/CHAAI.jpg');">
                     <h6 class="slidetext">CHAAI</h6>
                 </div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/BUBBLE\ TEA.jpg');">
                     <h6 class="slidetext">BUBBLE TEA</h6>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Chana Masala.jpg');">
-                    <h6 class="slidetext">Chana Masala</h6>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Cheese Dosa.jpg');">
-                    <h6 class="slidetext">Cheese Dosa</h6>
                 </div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/DABELI.jpg');">
                     <h6 class="slidetext">DABELI</h6>
@@ -99,7 +90,6 @@
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Onion Uthappam.jpg');">    <h6 class="slidetext">Onion Uthappam</h6></div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Pani Puri.jpg');">         <h6 class="slidetext">Pani Puri</h6></div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/PARATHA.jpg');">            <h6 class="slidetext">PARATHA</h6></div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/PASTA.jpg');">              <h6 class="slidetext">PASTA</h6></div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/PAV BHAJI.jpg');">         <h6 class="slidetext">PAV BHAJI</h6></div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/PURI.jpg');">               <h6 class="slidetext">PURI</h6></div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Ras Malai.jpg');">         <h6 class="slidetext">Ras Malai</h6></div>
@@ -107,7 +97,6 @@
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/ROTI.jpg');">               <h6 class="slidetext">ROTI</h6></div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Samosas.jpg');">            <h6 class="slidetext">Samosas</h6></div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Upma.jpg');">               <h6 class="slidetext">Upma</h6></div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Vada.jpg');">               <h6 class="slidetext">VADA </h6></div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/VADA PAV.jpg');">          <h6 class="slidetext">Vada PAV</h6></div>
                 
             </div>
@@ -359,7 +348,7 @@ echo "<button class='smallbuttons btn btn-sm btn-default filter-button bg-".$col
         });
         $('.home_slider').owlCarousel({
             loop: true,
-            nav: true,
+            nav: false,
             autoplay: true,
             dots: true,
             margin: 0,

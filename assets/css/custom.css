@@ -2,7 +2,7 @@ body {
     font-family: 'Poppins', sans-serif;
     /* font-family: 'Helvetica Neue', sans-serif; */
 }
-.slidetext
+/* .slidetext
 {
     color: #dc3545;
     font-weight: bold;
@@ -15,6 +15,21 @@ body {
     border: 1px solid #dc3545;
     box-shadow: 1px 4px 10px 2px #00000061;   
     margin-bottom: .5rem!important;
+    bottom: 0;
+  
+} */
+.slidetext
+{
+    font-family: fantasy;
+    -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;
+    color: rgb(255, 0, 212);
+    font-weight:bolder;
+    font-size: 2.5rem;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    position: absolute;
+    margin-bottom: .1rem!important;
     bottom: 0;
   
 }

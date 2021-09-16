@@ -53,6 +53,18 @@
         <div class="">
 
             <div class="wow fadeInUp owl-carousel home_slider" data-wow-duration="1s" data-wow-delay="1s">
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/1a.IDLI.jpg');">
+                    <h6 class="slidetext">IDLI</h6>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/1b.MEDHU\ VADA.jpg')">
+                    <h6 class="slidetext">MEDHU VADA</h6>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/2.PLAIN\ DOSA.jpg');">
+                    <h6 class="slidetext">PLAIN DOSA</h6>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/3.MASALA\ DOSA.jpg');">
+                    <h6 class="slidetext">MASALA DOSA</h6>
+                </div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/BHEL\ PURI.jpg');">
                     <h6 class="slidetext">BHEL PURI</h6>
                 </div>

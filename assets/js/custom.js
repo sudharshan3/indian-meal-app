@@ -22,47 +22,67 @@ $(document).ready(function(){
       
         if(value == "all")
         {
-            $(".cat_heading").css("display","none");
+            $(".cat_heading").css("display","block");
+            $(".cat_heading").html("<b class='mb-2 text-uppercase'>all day menu</b>")
             $('.filter').show('1000');
         } else if(value == "brunch"){
             $(".cat_heading").css("display","block");
-            $(".cat_heading").html("South Indian & Sri Lankan-cuisines")
+            $(".cat_heading").html("<b class='mb-2 text-uppercase'>South Indian & Sri Lankan-cuisines</b>")
             $(".filter").not('.'+value).hide('3000');
             $('.filter').filter('.'+value).show('3000');
         } else if(value == "wraps"){
             $(".cat_heading").css("display","block");
-            $(".cat_heading").html("DELHI DELI WRAPS <br><small> Wrap containing a filling enfolded in an Indian flatbread</small>")
+            $(".cat_heading").html("<b class='mb-2 text-uppercase'>DELHI DELI WRAPS</b> <br><small> Wrap containing a filling enfolded in an Indian flatbread</small>")
             $(".filter").not('.'+value).hide('3000');
             $('.filter').filter('.'+value).show('3000');
         } else if(value == "chaat"){
             $(".cat_heading").css("display","block");
-            $(".cat_heading").html("MUMBAI FAMOUS CHAAT <br><small> Set of snacks something sweet, sour, tangy, spicy and crunchy</small>")
+            $(".cat_heading").html("<b class='mb-2 text-uppercase'>MUMBAI FAMOUS CHAAT</b> <br><small> Set of snacks something sweet, sour, tangy, spicy and crunchy</small>")
             $(".filter").not('.'+value).hide('3000');
             $('.filter').filter('.'+value).show('3000');
         } else if(value == "wok-meal"){
             $(".cat_heading").css("display","block");
-            $(".cat_heading").html("KOLKATA STYLE WOK MEAL <br><small> A popular pasta, fried rice and noodles</small>")
+            $(".cat_heading").html("<b class='mb-2 text-uppercase'>KOLKATA STYLE WOK MEAL</b> <br><small> A popular pasta, fried rice and noodles</small>")
             $(".filter").not('.'+value).hide('3000');
             $('.filter').filter('.'+value).show('3000');
         } 
+        else if(value == "veg-meal"){
+            $(".cat_heading").css("display","block");
+            $(".cat_heading").html("<b class='mb-2 text-uppercase'>Vegetable Meal Deal</b> ")
+            $(".filter").not('.'+value).hide('3000');
+            $('.filter').filter('.'+value).show('3000');
+        } 
+        else if(value == "egg-meal"){
+            $(".cat_heading").css("display","block");
+            $(".cat_heading").html("<b class='mb-2 text-uppercase'>Egg Meal Deal</b> ")
+            $(".filter").not('.'+value).hide('3000');
+            $('.filter').filter('.'+value).show('3000');
+        }
+        else if(value == "chicken-meal"){
+            $(".cat_heading").css("display","block");
+            $(".cat_heading").html("<b class='mb-2 text-uppercase'>Chicken Meal Deal</b> ")
+            $(".filter").not('.'+value).hide('3000');
+            $('.filter').filter('.'+value).show('3000');
+        }
+        else if(value == "lamb-meal"){
+            $(".cat_heading").css("display","block");
+            $(".cat_heading").html("<b class='mb-2 text-uppercase'>Lamb Meal Deal</b> ")
+            $(".filter").not('.'+value).hide('3000');
+            $('.filter').filter('.'+value).show('3000');
+        }
         else if(value == "desserts"){
             $(".cat_heading").css("display","block");
-            $(".cat_heading").html("INDIAN POPULAR SWEETS<br><small>Hot/Cold</small>")
+            $(".cat_heading").html("<b class='mb-2 text-uppercase'>INDIAN POPULAR SWEETS</b><br><small>Hot/Cold</small>")
             $(".filter").not('.'+value).hide('3000');
             $('.filter').filter('.'+value).show('3000');
         }
         else if(value == "beverages"){
             $(".cat_heading").css("display","block");
-            $(".cat_heading").html("Hot or Cold drinks")
+            $(".cat_heading").html("<b class='mb-2 text-uppercase'>Beverages</b><br><small>Hot/Cold</small>")
             $(".filter").not('.'+value).hide('3000');
             $('.filter').filter('.'+value).show('3000');
         }
-        else
-        {
-            $(".cat_heading").css("display","none");
-                $(".filter").not('.'+value).hide('3000');
-                $('.filter').filter('.'+value).show('3000');   
-        }
+        
     });
 
 

@@ -26,6 +26,9 @@
     <link rel="stylesheet " href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css ">
     <link rel="stylesheet " href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css ">
     <link href="http://fonts.cdnfonts.com/css/helvetica-neue-9" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap" rel="stylesheet">
 
     <style>
 
@@ -108,7 +111,7 @@
                     <h3 class="slidetext">LAMB BIRYANI </h3>
                 </div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/26a.RAS\ MALAI.jpg')">
-                    <h3 class="slidetext">RAS MALAI </h3>
+                    <h3 class="slidetext">RASMALAI </h3>
                 </div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/26b.GULAB\ JAMUN.jpg')">
                     <h3 class="slidetext">GULAB JAMUN </h3>
@@ -176,11 +179,11 @@
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/45.NOODLES.jpg')">
                     <h3 class="slidetext">NOODLES</h3>
                 </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/newsoftdrinks.jpg')">
-                    <h3 class="slidetext">SOFT DRINKS</h3>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/coca-cola-fanta-sprite-cans.jpg')">
+                    <h3 class="slidetext">CARBONATED SOFT DRINK</h3>
                 </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/49b.RUBICON.jpg')">
-                    <h3 class="slidetext">RUBICON</h3>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/RUBICON.jpg')">
+                    <h3 class="slidetext">SPARKLING FRUIT DRINK</h3>
                 </div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/53\,\ 54.LASSI.jpg')">
                     <h3 class="slidetext">LASSI</h3>
@@ -194,29 +197,17 @@
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/CHAAI.jpg');">
                     <h3 class="slidetext">CHAAI</h3>
                 </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/BUBBLE\ TEA.jpg');">
-                    <h3 class="slidetext">BUBBLE TEA</h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/DABELI.jpg');">
-                    <h3 class="slidetext">DABELI</h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/DAHI PAPDI CHAAT.jpg');">
-                    <h3 class="slidetext">DAHI PAPDI CHAAT</h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/DAHI PURI.jpg');">
-                    <h3 class="slidetext">DAHI PURI</h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Gulab Jamun.jpg');">
-                    <h3 class="slidetext">Gulab Jamun</h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/IDLI.jpg');">
-                    <h3 class="slidetext">IDLI</h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/NOODLES.jpg');">            <h3 class="slidetext">NOODLES</h3></div>
+           
+ 
+            
+           
+           
+          
+                
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Onion Uthappam.jpg');">    <h3 class="slidetext">Onion Uthappam</h3></div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/PARATHA.jpg');">            <h3 class="slidetext">parotta</h3></div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/PURI.jpg');">               <h3 class="slidetext">PURI</h3></div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Ras Malai.jpg');">         <h3 class="slidetext">Ras Malai</h3></div>
+               
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Rava Dosa.jpg');">         <h3 class="slidetext">Rava Dosa</h3></div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/ROTI.jpg');">               <h3 class="slidetext">chapatti</h3></div>
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Samosas.jpg');">            <h3 class="slidetext">Samosa</h3></div>

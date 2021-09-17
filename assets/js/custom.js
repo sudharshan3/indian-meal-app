@@ -82,6 +82,8 @@ $(document).ready(function(){
             $(".filter").not('.'+value).hide('3000');
             $('.filter').filter('.'+value).show('3000');
         } else{
+         
+            $(".cat_heading").css("display","none");
             $(".filter").not('.'+value).hide('3000');
             $('.filter').filter('.'+value).show('3000');
         }

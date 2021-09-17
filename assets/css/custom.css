@@ -5,8 +5,8 @@ body {
 
 .slidetext
 {
-    font-family: fantasy;
-    -webkit-text-stroke-width: 2px;
+    font-family: 'Montserrat', sans-serif;
+    -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: black;
     color: rgb(255, 251, 0);
     font-weight:bolder;

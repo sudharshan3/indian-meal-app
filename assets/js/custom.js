@@ -23,7 +23,7 @@ $(document).ready(function(){
         if(value == "all")
         {
             $(".cat_heading").css("display","block");
-            $(".cat_heading").html("<b class='mb-2 text-uppercase'>all day menu</b>")
+            $(".cat_heading").html("<b class='mb-2 text-uppercase'>all day menu</b><br><small>Popular Indian Street Foods</small>")
             $('.filter').show('1000');
         } else if(value == "brunch"){
             $(".cat_heading").css("display","block");

@@ -36,13 +36,13 @@
 </head>
 
 <body style="position:relative">
-
+<!-- 
     <a href="#contactregion" id='contactwidget' class="btn btn-danger rounded-circle position-fixed m-3 p-3 text-white shadow-lg" style="bottom: 1rem;right: 0;z-index:99999!important;display: none;">
         <h4 class="mb-0"><i class="bi bi-telephone-fill"></i> </h4>
-    </a>
+    </a> -->
     <section class="bg-danger rounded-bottom " style="padding-bottom: 9rem;">
         <div class="container text-center text-white py-5">
-            <img class="pb-2 mb-4 homeimage wow zoomIn " src="./assets/images/HEADERLOGO.png" alt="" >
+            <img class="pb-2 mb-4 homeimage wow zoomIn " src="./assets/images/HEADERLOGO.webp" alt="" >
             <!-- <h1 class="display-1 pb-2 wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".5s" style="font-weight: bolder;letter-spacing: 3px;">
                 <span>INDIAN</span>
                 <span>MEALS</span>
@@ -52,174 +52,263 @@
             </h2> -->
         </div>
     </section>
-    <section class="position-relative" style="transform: translateY(-10rem);">
+    <section class="position-relative" style="transform: translateY(-13rem);">
+     
         <div class="">
-
             <div class="wow fadeInUp owl-carousel home_slider" data-wow-duration="1s" data-wow-delay="1s">
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/1a.IDLI.jpg');">
-                    <h3 class="slidetext">IDLI</h3>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/1a.IDLI.webp');">
+                    <h5 class="slidetext">IDLI</h5>
                 </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/1b.MEDHU\ VADA.jpg')">
-                    <h3 class="slidetext">MEDHU VADA</h3>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/1b.MEDHU\ VADA.webp')">
+                    <h5 class="slidetext">MEDHU VADA</h5>
                 </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/2.PLAIN\ DOSA.jpg');">
-                    <h3 class="slidetext">PLAIN DOSA</h3>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/MASALA\ VADA.webp')">
+                    <h5 class="slidetext">MASALA VADA</h5>
                 </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/3.MASALA\ DOSA.jpg');">
-                    <h3 class="slidetext">MASALA DOSA</h3>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/45.NOODLES.webp')">
+                    <h5 class="slidetext">SEMIYA UPMA</h5>
                 </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/4.UTHAPPAM.jpg');">
-                    <h3 class="slidetext">UTHAPPAM</h3>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Upma.webp');">               
+                    <h5 class="slidetext">RAVA Upma</h5>
                 </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/5.EGG\ DOSA.jpg');">
-                    <h3 class="slidetext">EGG DOSA</h3>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Rava Dosa.webp');">         
+                    <h5 class="slidetext">Rava Dosa</h5>
                 </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/paneerdosanew.jpg');">
-                    <h3 class="slidetext">PANEER DOSA</h3>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/2.PLAIN\ DOSA.webp');">
+                    <h5 class="slidetext">PLAIN DOSA</h5>
                 </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/6b.CHEESE\ DOSA.jpg');">
-                    <h3 class="slidetext">CHEESE DOSA</h3>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/masala-dosa.webp');">
+                    <h5 class="slidetext">MASALA DOSA</h5>
+                </div>      
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/6b.CHEESE\ DOSA.webp');">
+                    <h5 class="slidetext">CHEESE DOSA</h5>
+                </div>     
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/paneerdosanew.webp');">
+                    <h5 class="slidetext">PANEER DOSA</h5>
+                </div>    
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/5.EGG\ DOSA.webp');">
+                    <h5 class="slidetext">EGG DOSA</h5>
+                </div>                         
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/chickendosanew.webp');">
+                    <h5 class="slidetext">CHICKEN DOSA</h5>
                 </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/chickendosanew.jpg');">
-                    <h3 class="slidetext">CHICKEN DOSA</h3>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/4.UTHAPPAM.webp');">
+                    <h5 class="slidetext">UTHAPPAM</h5>
                 </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/8.PURI\ BHAJI.jpg');">
-                    <h3 class="slidetext">PURI BHAJI</h3>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/ONION\ UTHAPPAM.webp');">    
+                    <h5 class="slidetext">Onion Uthappam</h5>
                 </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/9a.CEYLON\ PAROTTA.jpg');">
-                    <h3 class="slidetext">CEYLON PAROTTA</h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/9b.CHAPATTI.jpg')">
-                    <h3 class="slidetext">CHAPATTI</h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/10.CHILI\ PANEER.jfif.jpg')">
-                    <h3 class="slidetext">CHILI PANEER </h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/11.CHILI\ CHICKEN.jpg')">
-                    <h3 class="slidetext">CHILI CHICKEN </h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/11a.MALABAR\ PAROTTA.jpg')">
-                    <h3 class="slidetext">MALABAR PAROTTA </h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/17.VEG\ BIRYANI.jpg')">
-                    <h3 class="slidetext">VEG BIRYANI </h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/18.EGG\ BIRYANI.jpg')">
-                    <h3 class="slidetext">EGG BIRYANI </h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/25.LAMB\ BIRYANI.jpg')">
-                    <h3 class="slidetext">LAMB BIRYANI </h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/26a.RAS\ MALAI.jpg')">
-                    <h3 class="slidetext">RASMALAI </h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/26b.GULAB\ JAMUN.jpg')">
-                    <h3 class="slidetext">GULAB JAMUN </h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/26c.KHEER.jpg')">
-                    <h3 class="slidetext">KHEER </h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/26d.SEMIYA\ PAYASAM.jpg')">
-                    <h3 class="slidetext">SEMIYA PAYASAM </h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/26e.RAVA\ KESARI.jpg')">
-                    <h3 class="slidetext">RAVA KESARI </h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/27.SAMOSA.jpg')">
-                    <h3 class="slidetext">SAMOSA </h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/28a.VADA\ PAV.jpg')">
-                    <h3 class="slidetext">VADA PAV </h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/28b.SAMOSA\ PAV.jpg')">
-                    <h3 class="slidetext">SAMOSA PAV </h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/29.DABELI.jpg')">
-                    <h3 class="slidetext">DABELI </h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/PAV\ BHAJI.jpg')">
-                    <h3 class="slidetext">PAV BHAJI</h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/31.BEL\ PURI.jpg')">
-                    <h3 class="slidetext">BEL PURI</h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/33.RAGDA\ SEV\ PURI.jpg')">
-                    <h3 class="slidetext">RAGDA SEV PURI</h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/34.PANI\ PURI.jpg')">
-                    <h3 class="slidetext">PANI PURI</h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/35.DAHI\ PURI.jpg')">
-                    <h3 class="slidetext">DAHI PURI</h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/36.DAHI\ PAPDI\ CHAAT.jpg')">
-                    <h3 class="slidetext">DAHI PAPDI CHAAT</h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/37.SAMOSA\ CHAAT.jpg')">
-                    <h3 class="slidetext">SAMOSA CHAAT</h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/38.ALOO\ KATHI\ ROLL.jpg')">
-                    <h3 class="slidetext">ALOO KATHI ROLL</h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/39.OMLETTE\ KATHI\ ROLL.jpg')">
-                    <h3 class="slidetext">OMLETTE KATHI ROLL</h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/40.PANEER\ KATHI\ ROLL.jpg')">
-                    <h3 class="slidetext">PANEER KATHI ROLL</h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/41.CHICKEN\ KATHI\ ROLL.jpg')">
-                    <h3 class="slidetext">CHICKEN KATHI ROLL</h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/43.EGG\ MASALA\ PASTA.jpg')">
-                    <h3 class="slidetext">EGG MASALA PASTA</h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/44.CHICKEN\ PASTA.jpg')">
-                    <h3 class="slidetext">CHICKEN PASTA</h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/45.NOODLES.jpg')">
-                    <h3 class="slidetext">NOODLES</h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/coca-cola-fanta-sprite-cans.jpg')">
-                    <h3 class="slidetext">CARBONATED SOFT DRINK</h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/RUBICON.jpg')">
-                    <h3 class="slidetext">SPARKLING FRUIT DRINK</h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/53\,\ 54.LASSI.jpg')">
-                    <h3 class="slidetext">LASSI</h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/new/55.BUBBLE\ TEA.jpg')">
-                    <h3 class="slidetext">BUBBLE TEA</h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/BHEL\ PURI.jpg');">
-                    <h3 class="slidetext">BHEL PURI</h3>
-                </div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/CHAAI.jpg');">
-                    <h3 class="slidetext">CHAAI</h3>
-                </div>
-           
- 
+                                
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/8.PURI\ BHAJI.webp');">
+                    <h5 class="slidetext">PURI BHAJI</h5>
+                </div>          
             
-           
-           
-          
-                
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Onion Uthappam.jpg');">    <h3 class="slidetext">Onion Uthappam</h3></div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/PARATHA.jpg');">            <h3 class="slidetext">parotta</h3></div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/PURI.jpg');">               <h3 class="slidetext">PURI</h3></div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/9b.CHAPATTI.webp')">
+                    <h5 class="slidetext">CHANA MASALA</h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/RAGDA.webp')">
+                    <h5 class="slidetext">RAGDA</h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/PURI.webp');">               
+                    <h5 class="slidetext">PURI</h5>
+                </div> 
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/ROTI.webp');">               
+                    <h5 class="slidetext">chapatti</h5>
+                </div>                
+                <!-- <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/PARATHA.webp');">            
+                    <h5 class="slidetext">parotta</h5>
+                </div> -->
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/11.CHILI\ CHICKEN.webp')">
+                    <h5 class="slidetext">CHILI CHICKEN </h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/10.CHILI\ PANEER.jfif.webp')">
+                    <h5 class="slidetext">CHILI PANEER </h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/9a.CEYLON\ PAROTTA.webp');">
+                    <h5 class="slidetext">CEYLON PAROTTA</h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/11a.MALABAR\ PAROTTA.webp')">
+                    <h5 class="slidetext">MALABAR PAROTTA </h5>
+                </div>
+         
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/19.EGG\ MASALA.webp')">
+                    <h5 class="slidetext">EGG MASALA</h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/38.ALOO\ KATHI\ ROLL.webp')">
+                    <h5 class="slidetext">ALOO KATHI ROLL</h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/39.OMLETTE\ KATHI\ ROLL.webp')">
+                    <h5 class="slidetext">OMLETTE KATHI ROLL</h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/PANEER\ KATHI\ ROLL.webp')">
+                    <h5 class="slidetext">PANEER KATHI ROLL</h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/41.CHICKEN\ KATHI\ ROLL.webp')">
+                    <h5 class="slidetext">CHICKEN KATHI ROLL</h5>
+                </div>
+
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/vegkothu.webp')">
+                    <h5 class="slidetext">VEG kothu parotta </h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/eggkothuparotta.webp')">
+                    <h5 class="slidetext">EGG kothu parotta </h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/chicken-kottu-parata.webp')">
+                    <h5 class="slidetext">chicken kothu parotta </h5>
+                </div>             
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/MUTTON\ KOTHU\ PAROTTA.webp')">
+                    <h5 class="slidetext">MUTTON kothu parotta </h5>
+                </div>    
+
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/36.VEG\ CURRY\ RICE.webp')">
+                    <h5 class="slidetext">VEG CURRY RICE </h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/20.CHICKEN\ CURRY\ RICE.webp')">
+                    <h5 class="slidetext">CHICKEN CURRY RICE </h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/23.LAMB\ CURRY\ RICE.webp')">
+                    <h5 class="slidetext">LAMB CURRY RICE </h5>
+                </div>
+
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/17.VEG\ BIRYANI.webp')">
+                    <h5 class="slidetext">VEG BIRYANI </h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/18.EGG\ BIRYANI.webp')">
+                    <h5 class="slidetext">EGG BIRYANI </h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/22.CHICKEN\ BIRYANI.webp')">
+                    <h5 class="slidetext">CHICKEN BIRYANI </h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/39.LAMB\ BIRYANI.webp')">
+                    <h5 class="slidetext">LAMB BIRYANI</h5>
+                </div>
+
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/45.VEGETABLE\ FRIED\ RICE.webp')">
+                    <h5 class="slidetext">VEGETABLE FRIED RICE </h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/46.EGG\ FRIED\ RICE.webp')">
+                    <h5 class="slidetext">EGG FRIED RICE </h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/47.CHICKEN\ FRIED\ RICE.webp')">
+                    <h5 class="slidetext">CHICKEN FRIED RICE </h5>
+                </div>
+             
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/45a.VEGETABLE\ LO\ MEIN.webp')">
+                    <h5 class="slidetext">VEGETABLE LO MEIN </h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/46a.EGG\ LO\ MEIN.webp')">
+                    <h5 class="slidetext">EGG LO MEIN </h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/47a.CHICKEN\ LO\ MEIN.webp')">
+                    <h5 class="slidetext">CHICKEN LO MEIN </h5>
+                </div>    
+
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/49.VEG\ PASTA.webp')">
+                    <h5 class="slidetext">VEG PASTA</h5>
+                </div>
+                <!-- <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/43.EGG\ MASALA\ PASTA.webp')">
+                    <h5 class="slidetext">EGG MASALA PASTA</h5>
+                </div> -->
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/47.EGG\ PASTA.webp')">
+                    <h5 class="slidetext">EGG PASTA</h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/48.CHICKEN\ PASTA.webp')">
+                    <h5 class="slidetext">CHICKEN PASTA</h5>
+                </div>
+
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/27.SAMOSA.webp')">
+                    <h5 class="slidetext">SAMOSA </h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/28b.SAMOSA\ PAV.webp')">
+                    <h5 class="slidetext">SAMOSA PAV </h5>
+                </div>                
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/28a.VADA\ PAV.webp')">
+                    <h5 class="slidetext">VADA PAV </h5>
+                </div>                
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/29.DABELI.webp')">
+                    <h5 class="slidetext">DABELI </h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/PAV\ BHAJI.webp')">
+                    <h5 class="slidetext">PAV BHAJI</h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/31.BEL\ PURI.webp')">
+                    <h5 class="slidetext">BHEL PURI</h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/SEV\ PURI.webp');">              
+                     <h5 class="slidetext">SEV PURI</h5>
+                </div>                      
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/33.RAGDA\ SEV\ PURI.webp')">
+                    <h5 class="slidetext">RAGDA SEV PURI</h5>
+                </div>                
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/34.PANI\ PURI.webp')">
+                    <h5 class="slidetext">PANI PURI</h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/35.DAHI\ PURI.webp')">
+                    <h5 class="slidetext">DAHI PURI</h5>
+                </div>             
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/36.DAHI\ PAPDI\ CHAAT.webp')">
+                    <h5 class="slidetext">DAHI PAPDI CHAAT</h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/37.SAMOSA\ CHAAT.webp')">
+                    <h5 class="slidetext">SAMOSA CHAAT</h5>
+                </div>
+
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/26a.RAS\ MALAI.webp')">
+                    <h5 class="slidetext">RASMALAI</h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/26b.GULAB\ JAMUN.webp')">
+                    <h5 class="slidetext">GULAB JAMUN </h5>
+                </div>         
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/26c.KHEER.webp')">
+                    <h5 class="slidetext">KHEER </h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/26d.SEMIYA\ PAYASAM.webp')">
+                    <h5 class="slidetext">SEMIYA PAYASAM </h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/26e.RAVA\ KESARI.webp')">
+                    <h5 class="slidetext">RAVA KESARI </h5>
+                </div>
                
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Rava Dosa.jpg');">         <h3 class="slidetext">Rava Dosa</h3></div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/ROTI.jpg');">               <h3 class="slidetext">chapatti</h3></div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Samosas.jpg');">            <h3 class="slidetext">Samosa</h3></div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/Upma.jpg');">               <h3 class="slidetext">Upma</h3></div>
-                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/VADA PAV.jpg');">          <h3 class="slidetext">Vada PAV</h3></div>
-                
+      
+                <!-- <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/GOGAPPA.webp')">
+                    <h5 class="slidetext">Golgappa</h5>
+                </div> -->
+              
+        
+             
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/coca-cola-fanta-sprite-cans.webp')">
+                    <h5 class="slidetext">SOFT DRINK</h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/RUBICON.webp')">
+                    <h5 class="slidetext">FRUIT DRINK</h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/CHAAI.webp');">
+                    <h5 class="slidetext">CHAAI</h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/51.COFFEE.webp');">
+                    <h5 class="slidetext">coffee</h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/52.HOT\ CHOCOLATE.webp')">
+                    <h5 class="slidetext">hot choclate</h5>
+                </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/53\,\ 54.LASSI.webp')">
+                    <h5 class="slidetext">LASSI</h5>
+                </div>              
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/55.BUBBLE\ TEA.webp')">
+                    <h5 class="slidetext">BUBBLE TEA</h5>
+                </div> 
+              
+              
             </div>
-
-
         </div>
+        <p class=" text-center wow fadeInUp text-danger px-3" data-wow-duration="1s" data-wow-delay="1.2s">
+             
+            ALL PICTURES SHOWN ARE FOR ILLUSTRATION PURPOSES ONLY. ACTUAL PRODUCTS MAY VARY DUE TO PRODUCT ENHANCEMENT.
+      
+    </p>
     </section>
-    <section style="transform: translateY(-8rem);">
+
+    <section style="transform: translateY(-10rem);">
         <div class="container-md">
             <div class="row">
                 <div class="col-sm-12 col-md-12 wow zoomIn" data-wow-duration=".8s" data-wow-delay="0.1s">
@@ -270,7 +359,23 @@
                 <div class="gallery col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
                     <h1 class="display-4 mb-4" style="font-weight: bolder;letter-spacing: 3px;">MENU</h1>
                 </div>
-                <div class="bg-light menu_type sticky-top py-2" align="center">
+          
+                <div class="bg-light menu-category sticky-top rounded py-2" align="center" >
+                    <button class="btn  btn-default filter-button bigbuttons selected" data-filter="all">All Day Menu</button>
+
+                    <?php
+                 foreach($cat_items as $value){
+                    $catname =$value['category_name'];
+                    $spaceless = preg_replace('/\s+/', '', $catname);
+                    $data_value1 = strtolower($spaceless);
+                    $data_value2 = preg_replace('/[^a-zA-Z0-9_ %\[\]\.\(\)%&-]/s', '', $data_value1);
+                    $data_value = str_replace('&', '', $data_value2);
+                    echo  "<button class='btn  btn-default bigbuttons filter-button ' data-filter='".$data_value."'>".$catname."</button>" ;
+                  }
+                 ?>
+
+                </div>
+                <div class="bg-light menu_type  mb-3  " align="center" style="position: sticky;top:3.5rem">
                     <?php
                     $sorted = rsort($shrink_type);
                
@@ -302,25 +407,11 @@ echo "<button class='smallbuttons btn btn-sm btn-default filter-button bg-".$col
     ?>
 
                 </div>
-                <div class="bg-light menu-category mb-3 rounded" align="center" style="position: sticky;top:3.5rem">
-                    <button class="btn  btn-default filter-button bigbuttons selected" data-filter="all">All Day Menu</button>
-
-                    <?php
-                 foreach($cat_items as $value){
-                    $catname =$value['category_name'];
-                    $spaceless = preg_replace('/\s+/', '', $catname);
-                    $data_value1 = strtolower($spaceless);
-                    $data_value2 = preg_replace('/[^a-zA-Z0-9_ %\[\]\.\(\)%&-]/s', '', $data_value1);
-                    $data_value = str_replace('&', '', $data_value2);
-                    echo  "<button class='btn  btn-default bigbuttons filter-button ' data-filter='".$data_value."'>".$catname."</button>" ;
-                  }
-                 ?>
-
-                </div>
                 <br/>
                 <div class="text-center  w-100">
                     <h6 class="cat_heading">
                     <b class='mb-2 text-uppercase'>all day menu</b>
+                    <br><small>Popular Indian Street Foods</small>
                     </h6>
                 </div>
                 <div class="menu_product row ">
@@ -386,9 +477,9 @@ echo "<button class='smallbuttons btn btn-sm btn-default filter-button bg-".$col
 
     <section class="bg-danger py-5" id="contactregion">
         <div class="container text-center text-white">
-            <h1 class="display-4 mb-4" style="font-weight: bolder;letter-spacing: 3px;">CONTACT US</h1>
-            <div class="row">
-                <div class="col-sm-12 col-lg-4 mb-3 h-100">
+            <h1 class="display-4 mb-4" style="font-weight: bolder;letter-spacing: 3px;">LOCATION</h1>
+            <div class="row justify-content-center">
+                <div class="col-sm-12 col-lg-6 mb-3 h-100">
                     <div class="shadow-lg bg-white rounded p-3 text-dark text-center alginall">
                         <div>
                             <h4> <i class="bi bi-geo-alt-fill  text-danger"></i></h4>
@@ -408,7 +499,7 @@ echo "<button class='smallbuttons btn btn-sm btn-default filter-button bg-".$col
                         <a href="https://goo.gl/maps/bDWcASkxgm9nQSZg7" target="_blank" class="btn btn-lg btn-danger w-100 rounded-pill">Get Directions</a>
                     </div>
                 </div>
-                <div class="col-sm-12 col-lg-4 mb-3 ">
+                <div class="col-sm-12 col-lg-4 mb-3 d-none ">
                     <div class="shadow-lg bg-white rounded p-3 text-dark text-center  alginall">
                         <div>
                             <h4> <i class="bi bi-telephone-fill  text-success"></i></h4>
@@ -426,7 +517,7 @@ echo "<button class='smallbuttons btn btn-sm btn-default filter-button bg-".$col
                         <a href="tel:07377700775" target="_blank" class="btn btn-lg btn-success w-100 rounded-pill">Call Now</a>
                     </div>
                 </div>
-                <div class="col-sm-12 col-lg-4 mb-3">
+                <div class="col-sm-12 col-lg-4 mb-3 d-none">
                     <div class="shadow-lg bg-white rounded p-3 text-dark text-center  alginall">
                         <div>
                             <h4> <i class="bi bi-envelope-fill  text-primary p-2"></i></h4>

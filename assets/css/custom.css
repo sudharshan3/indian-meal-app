@@ -7,20 +7,25 @@ body {
 {
     font-family: 'Montserrat', sans-serif;
     -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: black;
-    color: rgb(255, 251, 0);
+    -webkit-text-stroke-color: black;
+    background: #ce1222;
+    color: rgb(245, 241, 35);
     font-weight:bolder;
     letter-spacing: 2px;
     text-transform: uppercase;
     position: absolute;
     margin-bottom: .1rem!important;
-    bottom: 0;
-  
+    padding: .5rem 0;
+    top: 0;  
+    left: 0;
+    right: 0;
+    margin-right: auto;
+    margin-left: auto;
 }
-.slide_img:hover>.slidetext{
-    transform: translateY(-5rem);
+/* .slide_img:hover>.slidetext{
+
     transition: .3s ease-in-out;
-}
+} */
 .slide_img {
     
     position: relative;
@@ -29,9 +34,9 @@ body {
     background-repeat: no-repeat;
     background-size:cover;
     height: 30rem;
-    display: flex;
+    /* display: flex;
     justify-content: center;
-    align-items: flex-end;
+    align-items: flex-end; */
 }
 
 .bg-danger {
@@ -95,8 +100,8 @@ body {
     color: rgb(34, 34, 34);
 }
 .bg-soft-purple:hover {
-    color: #2d006b;
-    background-color: #2d006b2a!important;
+    color: #ff07ce;
+    background-color: #ff07cd25!important;
 }
 
 .bg-soft-primary {
@@ -131,7 +136,7 @@ body {
 
 .bg-soft-purple {
     color: #ffffff;
-    background-color: #2d006b;
+    background-color: #ff07ce;
 }
 
 .bg-soft-dark {

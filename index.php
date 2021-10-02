@@ -40,21 +40,12 @@
     <a href="#contactregion" id='contactwidget' class="btn btn-danger rounded-circle position-fixed m-3 p-3 text-white shadow-lg" style="bottom: 1rem;right: 0;z-index:99999!important;display: none;">
         <h4 class="mb-0"><i class="bi bi-telephone-fill"></i> </h4>
     </a> -->
-    <section class="bg-danger rounded-bottom " style="padding-bottom: 9rem;">
-        <div class="container text-center text-white py-5">
-            <img class="pb-2 mb-4 homeimage wow zoomIn " src="./assets/images/HEADERLOGO.webp" alt="" >
-            <!-- <h1 class="display-1 pb-2 wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".5s" style="font-weight: bolder;letter-spacing: 3px;">
-                <span>INDIAN</span>
-                <span>MEALS</span>
-            </h1> -->
-            <!-- <h2 class=" ">
-                <span class="badge rounded-pill bg-warning text-dark wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".9s">George Street , LUTON, Bedfordshire</span>
-            </h2> -->
+  
+    <section class="bg-danger py-2">
+    <div class="container text-center text-white pt-3">
+            <img class="homeimage wow zoomIn " src="./assets/images/HEADERLOGO.webp" alt="" >
         </div>
-    </section>
-    <section class="position-relative" style="transform: translateY(-13rem);">
-     
-        <div class="">
+        <div class="mt-0">
             <div class="wow fadeInUp owl-carousel home_slider" data-wow-duration="1s" data-wow-delay="1s">
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/1a.IDLI.webp');">
                     <h5 class="slidetext">IDLI</h5>
@@ -192,6 +183,9 @@
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/47.CHICKEN\ FRIED\ RICE.webp')">
                     <h5 class="slidetext">CHICKEN FRIED RICE </h5>
                 </div>
+                <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/soup.webp')">
+                    <h5 class="slidetext">SOUP</h5>
+                </div>
              
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/45a.VEGETABLE\ LO\ MEIN.webp')">
                     <h5 class="slidetext">VEGETABLE LO MEIN </h5>
@@ -291,6 +285,7 @@
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/52.HOT\ CHOCOLATE.webp')">
                     <h5 class="slidetext">hot choclate</h5>
                 </div>
+              
                 <div class="shadow item  rounded m-3 slide_img" style="background-image: url('./assets/slider/53\,\ 54.LASSI.webp')">
                     <h5 class="slidetext">LASSI</h5>
                 </div>              
@@ -301,15 +296,15 @@
               
             </div>
         </div>
-        <p class=" text-center wow fadeInUp text-danger px-3" data-wow-duration="1s" data-wow-delay="1.2s">
+        <p class=" text-center wow fadeInUp text-light px-3 mb-0" data-wow-duration="1s" data-wow-delay="1.2s">
              
             ALL PICTURES SHOWN ARE FOR ILLUSTRATION PURPOSES ONLY. ACTUAL PRODUCTS MAY VARY DUE TO PRODUCT ENHANCEMENT.
       
     </p>
     </section>
 
-    <section style="transform: translateY(-10rem);">
-        <div class="container-md">
+    <section class="py-2"> 
+        <div class="container">
             <div class="row">
                 <div class="col-sm-12 col-md-12 wow zoomIn" data-wow-duration=".8s" data-wow-delay="0.1s">
                     <div class="shadow rounded text-white text-center py-3 m-2 bg-primary">
@@ -329,35 +324,37 @@
                         <h3 class="mt-2">11:00-20:00</h3>
                     </div>
                 </div>
+                <div class="col-sm-12 col-md-12 wow zoomIn" data-wow-duration=".8s" data-wow-delay="0.4s">
+                    <div class="shadow rounded text-white  text-center p-3 m-2 bg-success">
+
+                        <h6 class="m-0 notice"> FOOD ALLERGIES and INTOLERANCES Please speak to our staff about the ingredients in your meal While placing order. Thank you
+        
+        
+                        </h6>
+        
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-12 wow zoomIn" data-wow-duration=".8s" data-wow-delay="0.5s">
+                    <div class="shadow rounded text-white  text-center p-3 m-2 bg-danger">
+
+                        <h6 class="m-0 notice"> As we use shared equipment, We cannot guarantee that our food is 100% free of any allergen
+        
+        
+                        </h6>
+        
+                    </div>
+                </div>
+
 
             </div>
         </div>
     </section>
-    <section style="transform: translateY(-4rem);">
-        <div class="container">
-            <div class="shadow rounded text-white  text-center p-3 m-2 bg-success">
 
-                <h6 class="m-0 notice"> FOOD ALLERGIES and INTOLERANCES Please speak to our staff about the ingredients in your meal While placing order. Thank you
-
-
-                </h6>
-
-            </div>
-            <div class="shadow rounded text-white  text-center p-3 m-2 bg-danger">
-
-                <h6 class="m-0 notice"> As we use shared equipment, We cannot guarantee that our food is 100% free of any allergen
-
-
-                </h6>
-
-            </div>
-        </div>
-    </section>
-    <section class="bg-light py-5">
+    <section class="bg-light py-2">
         <div class="container">
             <div class="row">
                 <div class="gallery col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
-                    <h1 class="display-4 mb-4" style="font-weight: bolder;letter-spacing: 3px;">MENU</h1>
+                    <h1 class="display-4 mb-2" style="font-weight: bolder;letter-spacing: 3px;">MENU</h1>
                 </div>
           
                 <div class="bg-light menu-category sticky-top rounded py-2" align="center" >

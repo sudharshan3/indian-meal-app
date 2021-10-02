@@ -50,14 +50,17 @@ if($_SESSION['username'] && $_SESSION['password']){
 
     </div>
     <div>
-        <div class=' py-2 px-3 sticky-top bg-danger text-white d-flex align-items-center justify-content-between shadow-sm'>
-            <h3 class=""> <i class="bi bi-basket2-fill me-2"></i> Menu List</h3>
-            <h3>
+        <div class=' py-1 px-3 sticky-top bg-danger text-white d-flex align-items-center justify-content-between shadow-sm'>
+            <h4 class="mb-0"> 
+                <i class="bi bi-basket2-fill me-2"></i> 
+                Menu List
+            </h4>
+            <h4 class="mb-0">
                 <a href="./logout.php" class="btn btn-danger btn-lg">
 
                     <i class="bi bi-box-arrow-in-left"></i> Logout
                 </a>
-            </h3>
+            </h4>
         </div>
 
         <div class="container mt-3 pb-5 mb-5">

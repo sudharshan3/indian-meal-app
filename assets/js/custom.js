@@ -72,7 +72,7 @@ $(document).ready(function(){
         }
         else if(value == "desserts"){
             $(".cat_heading").css("display","block");
-            $(".cat_heading").html("<b class='mb-2 text-uppercase'>INDIAN POPULAR MILK SWEETS</b><br><small>Hot/Cold</small>")
+            $(".cat_heading").html("<b class='mb-2 text-uppercase'>POPULAR INDIAN MILK SWEETS</b><br><small>Hot/Cold</small>")
             $(".filter").not('.'+value).hide('3000');
             $('.filter').filter('.'+value).show('3000');
         }

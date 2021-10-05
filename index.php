@@ -309,7 +309,7 @@
                 <div class="col-sm-12 col-md-12 wow zoomIn" data-wow-duration=".8s" data-wow-delay="0.1s">
                     <div class="shadow rounded text-white text-center py-3 m-2 bg-primary">
 
-                        <h3 class="mt-2 text-uppercase">We’re open 7 days a week</h3>
+                        <h4 class="mt-2 text-uppercase">We’re open 7 days a week</h4>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-6 wow zoomIn" data-wow-duration=".8s" data-wow-delay="0.2s">
